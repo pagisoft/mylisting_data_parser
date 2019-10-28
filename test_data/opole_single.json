@@ -1,0 +1,35 @@
+{
+  "page": 1,
+  "items": 10000,
+  "payload": [
+    {
+      "club": {
+        "address": "Opole",
+        "distance": 0,
+        "email": "info@snow-way.pl",
+        "id": 4306,
+        "latitude": "50.6751067",
+        "longitude": "17.9212976",
+        "name": "Szko\u0142a Narciarska SNOW WAY",
+        "phone": "603 656 232, 503 194 516",
+        "web": "www.snow-way.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, Opole",
+        "distance": 0,
+        "email": "sekretariat@mos.opole.pl",
+        "id": 4344,
+        "latitude": "50.6751067",
+        "longitude": "17.9212976",
+        "name": "MI\u0118DZYSZKOLNY O\u015aRODEK SPORTOWY W OPOLU",
+        "phone": "77 453 67 55",
+        "web": "mos.opole.pl",
+        "facebook": "NULL"
+      }
+    }
+  ],
+  "totalItems": 26230
+}

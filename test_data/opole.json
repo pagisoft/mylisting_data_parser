@@ -1,0 +1,2961 @@
+{
+  "page": 1,
+  "items": 10000,
+  "payload": [
+    {
+      "club": {
+        "address": "Opole",
+        "distance": 0,
+        "email": "info@snow-way.pl",
+        "id": 4306,
+        "latitude": "50.6751067",
+        "longitude": "17.9212976",
+        "name": "Szko\u0142a Narciarska SNOW WAY",
+        "phone": "603 656 232, 503 194 516",
+        "web": "www.snow-way.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, Opole",
+        "distance": 0,
+        "email": "sekretariat@mos.opole.pl",
+        "id": 4344,
+        "latitude": "50.6751067",
+        "longitude": "17.9212976",
+        "name": "MI\u0118DZYSZKOLNY O\u015aRODEK SPORTOWY W OPOLU",
+        "phone": "77 453 67 55",
+        "web": "mos.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Luboszycka 11, Opole",
+        "distance": 0.1,
+        "email": "zapisy@salsomania.opole.pl",
+        "id": 64921,
+        "latitude": "50.67563",
+        "longitude": "17.92293",
+        "name": "Salsomania Studio Ta\u0144ca",
+        "phone": "880007908",
+        "web": "www.salsomania.opole.pl",
+        "facebook": "www.facebook.com\/salsomania.opole"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Kazimierza Pu\u0142askiego 3",
+        "distance": 0.3,
+        "email": "laboratorium@vocalize.pl",
+        "id": 4351,
+        "latitude": "50.6731717",
+        "longitude": "17.9249587",
+        "name": "LABORATORIUM \u015aPIEWU I MOWY",
+        "phone": "662 287 354, 663 862 504",
+        "web": "vocalize.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-006, ul. Ksi\u0105\u017c\u0105t Opolskich 48-50",
+        "distance": 0.3,
+        "email": "optima@optima.opole.pl",
+        "id": 4307,
+        "latitude": "50.6730929",
+        "longitude": "17.9190219",
+        "name": "SZKO\u0141A J\u0118ZYK\u00d3W OBCYCH OPTIMA",
+        "phone": "77 441 22 26, 608 495 321",
+        "web": "optima.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ksi\u0105\u017c\u0105t Opolskich 48\/50, Opole",
+        "distance": 0.3,
+        "email": "",
+        "id": 80322,
+        "latitude": "50.6730929",
+        "longitude": "17.9190219",
+        "name": "Activa - Fitness dla Kobiet",
+        "phone": "774412484",
+        "web": "http:\/\/www.activa.opole.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Ksi\u0105\u017c\u0105t Opolskich 48\/50, Opole",
+        "distance": 0.3,
+        "email": "biuro@royaldancecenter.pl",
+        "id": 64136,
+        "latitude": "50.6730929",
+        "longitude": "17.9190219",
+        "name": "Royal Dance Center",
+        "phone": "600044210",
+        "web": "www.royaldancecenter.pl",
+        "facebook": "www.facebook.com\/RoyalDanceCenter?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Sienkiewicza 21, Opole",
+        "distance": 0.4,
+        "email": "zapisy@salsomania.opole.pl",
+        "id": 70337,
+        "latitude": "50.6716509",
+        "longitude": "17.922155",
+        "name": "Salsomania Studio Ta\u0144ca",
+        "phone": "880007908",
+        "web": "www.salsomania.opole.pl",
+        "facebook": "www.facebook.com\/salsomania.opole"
+      }
+    },
+    {
+      "club": {
+        "address": "Budowlanych 4A, Opole",
+        "distance": 0.4,
+        "email": "info@gymbox.pl",
+        "id": 58026,
+        "latitude": "50.6773685",
+        "longitude": "17.9178258",
+        "name": "GYMBOX",
+        "phone": "791 806 966",
+        "web": "gymbox.pl",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Crossfit-Gymbox-Opole\/1563298230567437"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 46-002, ul. Po\u015bwiatowskiej 3-5",
+        "distance": 0.4,
+        "email": "salazabawdzungla@interia.pl",
+        "id": 4338,
+        "latitude": "50.6727547",
+        "longitude": "17.9172494",
+        "name": "D\u017bUNGLA - sala zabaw dla dzieci",
+        "phone": "77 442 42 47",
+        "web": "www.dzungla.com.pl\/sala-zabaw-opole.html",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Kominka 3, Opole",
+        "distance": 0.4,
+        "email": "otsremedium@wp.pl",
+        "id": 62693,
+        "latitude": "50.6715003",
+        "longitude": "17.9213687",
+        "name": "Strefa Zdrowia Remedium",
+        "phone": "77 453 23 32",
+        "web": "www.grota-solna.opole.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Po\u015bwiatowskiej 3\/5, Opole",
+        "distance": 0.4,
+        "email": "taniec.opole@wp.pl",
+        "id": 68431,
+        "latitude": "50.6727547",
+        "longitude": "17.9172494",
+        "name": "SZKO\u0141A TA\u0143CA  DANCE STUDIO \"Kwiatkowski-G\u00f3recka\"",
+        "phone": "601 574 229",
+        "web": "www.taniec.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Szko\u0142a-Ta\u0144ca-Kwiatkowski-G\u00f3recka-Opole"
+      }
+    },
+    {
+      "club": {
+        "address": "Andersa 11\/7, Opole",
+        "distance": 0.5,
+        "email": "info@naukaplywania.opole.pl",
+        "id": 56928,
+        "latitude": "50.6727729",
+        "longitude": "17.9270343",
+        "name": "Szko\u0142a P\u0142ywania Barabasz",
+        "phone": "662 146 519",
+        "web": "www.naukaplywania.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/barabaszopole"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 11, Opole",
+        "distance": 0.5,
+        "email": "biuro@oxide.com.pl",
+        "id": 66634,
+        "latitude": "50.6720789",
+        "longitude": "17.9263519",
+        "name": "Oxide Fitness Club",
+        "phone": "77 442 30 40",
+        "web": "www.oxide.com.pl",
+        "facebook": "www.facebook.com\/pages\/Oxide-Fitness-Club\/192919490746055?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-040, pl. Miko\u0142aja Kopernika 16",
+        "distance": 0.6,
+        "email": "szkola@cemaster.pl",
+        "id": 4309,
+        "latitude": "50.6703212",
+        "longitude": "17.9263101",
+        "name": "CENTRUM EDUKACYJNE MASTER",
+        "phone": "696 510 486, 77 441 41 01",
+        "web": "cemaster.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Malczewskiego 1\/3, Opole",
+        "distance": 0.6,
+        "email": "marek.fordey@wp.pl",
+        "id": 65040,
+        "latitude": "50.6700563",
+        "longitude": "17.9227218",
+        "name": "U Marka. Sklep w\u0119dkarski",
+        "phone": "604 231 445",
+        "web": "",
+        "facebook": "https:\/\/www.facebook.com\/WedkarskiSwiat\/posts\/693724967356607"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-040, Pl. Kopernika 16",
+        "distance": 0.6,
+        "email": "opole@jupipark.pl",
+        "id": 4308,
+        "latitude": "50.6703212",
+        "longitude": "17.9263101",
+        "name": "JUPI PARK",
+        "phone": "783 779 000",
+        "web": "jupipark.pl\/sala-zabaw-opole",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Czaplaka , Opole",
+        "distance": 0.6,
+        "email": "",
+        "id": 77613,
+        "latitude": "50.6726478",
+        "longitude": "17.9295944",
+        "name": "Boisko Orlik",
+        "phone": "880 503 451",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Krupnicza 1, Opole",
+        "distance": 0.6,
+        "email": "joga.prusko@op.pl",
+        "id": 64063,
+        "latitude": "50.670029",
+        "longitude": "17.922753",
+        "name": "Joga Kazimiera Prusko",
+        "phone": "774410204",
+        "web": "www.joga.opole.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "pl. R\u00f3\u017c 8, Opole",
+        "distance": 0.6,
+        "email": "basen@mosir.opole.pl",
+        "id": 68026,
+        "latitude": "50.676994",
+        "longitude": "17.929734",
+        "name": "MOSiR w Opolu - Odkryta P\u0142ywalnia",
+        "phone": "774553269",
+        "web": "mosir.opole.pl\/obiekt\/basen-letni-blekitna-fala\/",
+        "facebook": "https:\/\/web.facebook.com\/MOSiR-Opole-290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Kopernika 16, Opole",
+        "distance": 0.6,
+        "email": "opole@jupipark.pl",
+        "id": 62900,
+        "latitude": "50.6704005",
+        "longitude": "17.9261909",
+        "name": "JUPI PARK",
+        "phone": "783 779 00",
+        "web": "jupipark.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/JUPI-PARK-sala-zabaw-dla-dzieci\/105921242793439"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Grunwaldzka 10\/102",
+        "distance": 0.7,
+        "email": "www.lereve.pl",
+        "id": 4349,
+        "latitude": "50.67073",
+        "longitude": "17.9285709",
+        "name": "Le R\u00eave - szko\u0142a j\u0119zyka francuskiego",
+        "phone": "lereve.opole@gmail.com",
+        "web": "null",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 45, Opole",
+        "distance": 0.7,
+        "email": "biuro@salsafuerte.pl",
+        "id": 66637,
+        "latitude": "50.6741729",
+        "longitude": "17.931568",
+        "name": "Salsa Fuerte",
+        "phone": "605 237 370",
+        "web": "www.salsafuerte.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Salsa-Fuerte"
+      }
+    },
+    {
+      "club": {
+        "address": "Chabr\u00f3w 65, Opole",
+        "distance": 0.8,
+        "email": "annazolud@gmail.com",
+        "id": 58367,
+        "latitude": "50.680054",
+        "longitude": "17.928572",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013",
+        "web": "www.aikido-opole.com\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Klub-Przyjaci\u00f3\u0142-Aikido-Anna-\u017bo\u0142ud"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Chabr\u00f3w 65",
+        "distance": 0.8,
+        "email": "annazolud@gmail.com",
+        "id": 4346,
+        "latitude": "50.680054",
+        "longitude": "17.928572",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013, 502 120 567, 500 284 932",
+        "web": "aikido-opole.com",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ozimska 19\/10, Opole",
+        "distance": 0.9,
+        "email": "euromedyk@euromedyk.pl",
+        "id": 67265,
+        "latitude": "50.6672212",
+        "longitude": "17.926219",
+        "name": "Euromedyk",
+        "phone": "77 441 32 95",
+        "web": "www.euromedyk.pl",
+        "facebook": "www.facebook.com\/euromedykprzychodniarehabilitacyjnaopole?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Chabr\u00f3w 52a, Opole",
+        "distance": 0.9,
+        "email": "kontakt@nailspaisabell.pl",
+        "id": 58366,
+        "latitude": "50.680102",
+        "longitude": "17.930865",
+        "name": "Nail Spa Isabell",
+        "phone": "693 72 64 75",
+        "web": "www.nailspaisabell.pl\/kontakt",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Nail-Spa-Isabell\/484897028248170"
+      }
+    },
+    {
+      "club": {
+        "address": "Chabr\u00f3w 31, Opole",
+        "distance": 0.9,
+        "email": "klub@zebra.opole.pl",
+        "id": 58363,
+        "latitude": "50.679894",
+        "longitude": "17.932016",
+        "name": "Zebra Club",
+        "phone": "774581234",
+        "web": "www.zebra.opole.pl",
+        "facebook": "www.facebook.com\/zebraopole"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 51, Opole",
+        "distance": 0.9,
+        "email": "okraglak@mosir.opole.pl",
+        "id": 66640,
+        "latitude": "50.6762489",
+        "longitude": "17.9342955",
+        "name": "Miejskie Korty Tenisowe w Opolu",
+        "phone": "501 563 570",
+        "web": "mosir.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/MOSiR-Opole\/290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Ko\u015bnego 18\/9, Opole",
+        "distance": 0.9,
+        "email": "opole@yasumi-epil.pl",
+        "id": 63206,
+        "latitude": "50.669668",
+        "longitude": "17.930246",
+        "name": "YASUMI",
+        "phone": "77 44 24 255",
+        "web": "www.opole.yasumi.pl\/masaze-i-spa",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Niemodli\u0144ska 2",
+        "distance": 0.9,
+        "email": "trenerka-beata_smieja@outlook.com",
+        "id": 4358,
+        "latitude": "50.6711308",
+        "longitude": "17.9107094",
+        "name": "BEATA \u015aMIEJA Mobilna Instruktorka Sportu",
+        "phone": "503 337 748",
+        "web": "www.mobilne-judo.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Barlickiego 13",
+        "distance": 1,
+        "email": "biuro@piruette.opole.pl",
+        "id": 4345,
+        "latitude": "50.666086",
+        "longitude": "17.9175049",
+        "name": "UCZNIOWSKI INTEGRACYJNY KLUB \u0141Y\u017bWIARSTWA FIGUROWEGO \"PIRUETTE-OPOLE\"",
+        "phone": "606 628 882, 502 127 137",
+        "web": "www.piruette.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Chabr\u00f3w 52, Opole",
+        "distance": 1,
+        "email": "poczta@kyokushin.pl",
+        "id": 58365,
+        "latitude": "50.6808198",
+        "longitude": "17.9328787",
+        "name": "Opolski Klub Karate KYOKUSHIN",
+        "phone": "774419369",
+        "web": "www.kyokushin.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/Opolski-Klub-Karate-Kyokushin-230043490480688"
+      }
+    },
+    {
+      "club": {
+        "address": "Barlickiego 7, Opole",
+        "distance": 1,
+        "email": "biuro@chatazagadek.pl",
+        "id": 57140,
+        "latitude": "50.6658789",
+        "longitude": "17.919429",
+        "name": "Chata Zagadek",
+        "phone": "796 189 189",
+        "web": "chatazagadek.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/chatazagadek\/"
+      }
+    },
+    {
+      "club": {
+        "address": "Barlickiego 13, Opole",
+        "distance": 1,
+        "email": "marketing@orlikopole.pl",
+        "id": 57135,
+        "latitude": "50.666086",
+        "longitude": "17.9175049",
+        "name": "Hokej na Lodzie Orlik Opole",
+        "phone": null,
+        "web": "orlikopole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Orlik-Opole\/382998595084820"
+      }
+    },
+    {
+      "club": {
+        "address": "Ko\u015bciuszki 17, Opole",
+        "distance": 1.1,
+        "email": "info@instytutzen.pl",
+        "id": 63097,
+        "latitude": "50.6662872",
+        "longitude": "17.9281039",
+        "name": "Instytut \u0106wicze\u0144 Psychofizycznych",
+        "phone": "77 547 28 39",
+        "web": "www.instytutzen.pl",
+        "facebook": "https:\/\/www.facebook.com\/zeninstytut?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Strzelc\u00f3w Bytomskich 1, Opole",
+        "distance": 1.1,
+        "email": "mdk@mdk.opole.pl",
+        "id": 71381,
+        "latitude": "50.665307",
+        "longitude": "17.921675",
+        "name": "M\u0142odzie\u017cowy Dom Kultury w Opolu",
+        "phone": "510 048 256",
+        "web": "mdk.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/mdkopole?ref=hl"
+      }
+    },
+    {
+      "club": {
+        "address": "Bulwar Musio\u0142a , Opole",
+        "distance": 1.1,
+        "email": "toropol@mosir.opole.pl",
+        "id": 58074,
+        "latitude": "50.6654756",
+        "longitude": "17.9157379",
+        "name": "MOSiR w Opolu - Si\u0142ownia Zewn\u0119trzna",
+        "phone": "774544800",
+        "web": "mosir.opole.pl\/obiekt\/silownia-zewnetrzna-bulwar-im-k-musiola\/",
+        "facebook": "https:\/\/web.facebook.com\/MOSiR-Opole-290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Ko\u015bnego 46, Opole",
+        "distance": 1.1,
+        "email": "paintballgrono@tlen.pl",
+        "id": 63207,
+        "latitude": "50.6699828",
+        "longitude": "17.9351167",
+        "name": "Paintball Grono",
+        "phone": "602 535 551",
+        "web": "www.paintball-opole.pl",
+        "facebook": "https:\/\/web.facebook.com\/BabilonPaintballTeam\/"
+      }
+    },
+    {
+      "club": {
+        "address": "Krakowska 37\/100, Opole",
+        "distance": 1.1,
+        "email": "hello@labiryntzagadek.pl",
+        "id": 63838,
+        "latitude": "50.6658677",
+        "longitude": "17.9247751",
+        "name": "Labirynt Zagadek",
+        "phone": "+ 48 882 663 422",
+        "web": "labiryntzagadek.pl",
+        "facebook": "https:\/\/www.facebook.com\/labiryntzagadek"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-358, ul. Ko\u015bciuszki 16\/4",
+        "distance": 1.2,
+        "email": "info@eureka.opole.pl",
+        "id": 4322,
+        "latitude": "50.6661534",
+        "longitude": "17.9295316",
+        "name": "Centrum Edukacji Kreatywnej \"Eureka\"",
+        "phone": "694 345 666",
+        "web": "www.eureka.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Dubois 47, Opole",
+        "distance": 1.2,
+        "email": "kosmetyka@yasoda.pl",
+        "id": 59356,
+        "latitude": "50.667454",
+        "longitude": "17.9324808",
+        "name": "Salon kosmetyczny YASODA",
+        "phone": "77 443 12 09",
+        "web": "www.yasoda.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/SalonYasoda"
+      }
+    },
+    {
+      "club": {
+        "address": "Katowicka 69, Opole",
+        "distance": 1.2,
+        "email": "recepcja@f1fitness.pl",
+        "id": 62178,
+        "latitude": "50.668999",
+        "longitude": "17.934908",
+        "name": "F1 Fitness Strength",
+        "phone": "77 427 70 83",
+        "web": "www.f1fitness.pl",
+        "facebook": "www.facebook.com\/pages\/F1-Fitness\/202740316528565"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Krakowska 38",
+        "distance": 1.2,
+        "email": "opole@myspeed.pl",
+        "id": 4354,
+        "latitude": "50.664404",
+        "longitude": "17.924913",
+        "name": "SPEED Szko\u0142a J\u0119zyka Angielskiego",
+        "phone": "77 441 86 00",
+        "web": "beta.myspeed.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-061, ul. Katowicka 65",
+        "distance": 1.2,
+        "email": "info@royal.opole.pl",
+        "id": 4312,
+        "latitude": "50.66845",
+        "longitude": "17.935453",
+        "name": "ROYAL SCHOOL CENTRUM J\u0118ZYK\u00d3W OBCYCH",
+        "phone": "77 547 26 18, 790 428 959",
+        "web": "www.royal.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-070, ul. Duboisa 39",
+        "distance": 1.2,
+        "email": "www.facebook.com\/apsopolanka",
+        "id": 4314,
+        "latitude": "50.6667879",
+        "longitude": "17.9321379",
+        "name": "Akademia Pi\u0142ki Siatkowej Opolanka",
+        "phone": "609 788 639",
+        "web": "null",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Damrota 4",
+        "distance": 1.2,
+        "email": "info@faceaface.edu.pl",
+        "id": 4347,
+        "latitude": "50.664722",
+        "longitude": "17.9277816",
+        "name": "FACE A FACE WARSZTATY J\u0118ZYKOWE",
+        "phone": "881 235 666",
+        "web": "Facebook",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-075, ul. Krakowska 45-47",
+        "distance": 1.2,
+        "email": "empikschool.com",
+        "id": 4316,
+        "latitude": "50.6647915",
+        "longitude": "17.9251333",
+        "name": "EMPIK School",
+        "phone": "77 400 17 21, 801 311 411",
+        "web": "null",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-066, ul. W\u0142adys\u0142awa Reymonta 18\/25",
+        "distance": 1.3,
+        "email": "biuro@lucky-language.pl",
+        "id": 4313,
+        "latitude": "50.6645114",
+        "longitude": "17.9295845",
+        "name": "LUCKY LANGUAGE",
+        "phone": "728 457 032, 77 553 11 44",
+        "web": "www.lucky-language.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-368, ul. Ozimska 48",
+        "distance": 1.3,
+        "email": "biuro@newcosmopolitan.pl",
+        "id": 4323,
+        "latitude": "50.6676889",
+        "longitude": "17.935039",
+        "name": "NEWCOSMOPOLITAN CENTRUM J\u0118ZYK\u00d3W OBCYCH",
+        "phone": "77 442 68 88",
+        "web": "newcosmopolitan.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ozimska 48, Opole",
+        "distance": 1.3,
+        "email": "silownia.aquarius@gmail.com",
+        "id": 67266,
+        "latitude": "50.6676889",
+        "longitude": "17.935039",
+        "name": "Studio \u0106wicze\u0144 Aquarius",
+        "phone": "77 402 13 55",
+        "web": "silownia-aquarius.pl\/",
+        "facebook": "www.facebook.com\/SilowniaAquarius"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 70, Opole",
+        "distance": 1.3,
+        "email": "okraglak@mosir.opole.pl",
+        "id": 66642,
+        "latitude": "50.6779928",
+        "longitude": "17.9390226",
+        "name": "MOSiR w Opolu - Hala Widowiskowo-Sportowa",
+        "phone": "774556106",
+        "web": "mosir.opole.pl\/obiekt\/hala-widowiskowo-sportowa-okraglak\/",
+        "facebook": "https:\/\/web.facebook.com\/MOSiR-Opole-290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Chabr\u00f3w 50, Opole",
+        "distance": 1.3,
+        "email": "anbed@op.pl",
+        "id": 58364,
+        "latitude": "50.6820329",
+        "longitude": "17.935786",
+        "name": "Towarzystwo Rekreacyjno Sportowe \u201eChabry\u201d",
+        "phone": "502 317 574",
+        "web": "www.chabryopole.bnx.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 70, Opole",
+        "distance": 1.3,
+        "email": "",
+        "id": 80055,
+        "latitude": "50.6779928",
+        "longitude": "17.9390226",
+        "name": "Bulderownia KW Opole DH Cieplak",
+        "phone": "606 591 590",
+        "web": "http:\/\/scianki-wspinaczkowe.pl\/opole\/bulderownia-dh-cieplak",
+        "facebook": "https:\/\/www.facebook.com\/KWOpole\/posts\/301243169981441"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 46-020, ul. Niemodli\u0144ska 19",
+        "distance": 1.4,
+        "email": "rytm.opole@poczta.fm",
+        "id": 4339,
+        "latitude": "50.6663722",
+        "longitude": "17.9060584",
+        "name": "Rytm i Zabawa Centrum Artystyczne",
+        "phone": "77 441 33 85",
+        "web": "www.rytmika.eu\/index.php?strona=sala#fileman\/galeria\/sala\/DSC_0121.jpg",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-072, ul. W\u0142adys\u0142awa Reymonta 30",
+        "distance": 1.4,
+        "email": "info@poliglotus.com.pl",
+        "id": 4315,
+        "latitude": "50.6635702",
+        "longitude": "17.929917",
+        "name": "CENTRUM J\u0118ZYK\u00d3W OBCYCH I EDUKACJI \"POLIGLOTUS\"",
+        "phone": "77 441 77 91",
+        "web": "www.poliglotus.com.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-077, ul. Korfantego",
+        "distance": 1.4,
+        "email": "kontakt@kanyon.pl",
+        "id": 4317,
+        "latitude": "50.6629404",
+        "longitude": "17.9242716",
+        "name": "Park Linowy Kanyon",
+        "phone": "799 189 189",
+        "web": "www.kanyon.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ozimska 48B, Opole",
+        "distance": 1.4,
+        "email": "biuro@oxide.com.pl",
+        "id": 67267,
+        "latitude": "50.6677589",
+        "longitude": "17.9381789",
+        "name": "Oxide Fitness Club",
+        "phone": "77 442 30 40",
+        "web": "www.oxide.com.pl",
+        "facebook": "www.facebook.com\/pages\/Oxide-Fitness-Club\/192919490746055?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-710, ul. Niemodli\u0144ska 19\/20",
+        "distance": 1.4,
+        "email": "biuro@e-esb.com",
+        "id": 4331,
+        "latitude": "50.6663722",
+        "longitude": "17.9060584",
+        "name": "ESB COLUMBUS",
+        "phone": "77 457 50 36",
+        "web": "www.face2face.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-761, ul. Niemodli\u0144ska 19\/20",
+        "distance": 1.4,
+        "email": "biuro@e-esb.com",
+        "id": 4333,
+        "latitude": "50.6663722",
+        "longitude": "17.9060584",
+        "name": "Columbus Szko\u0142a J\u0119zykowa",
+        "phone": "77 457 50 36",
+        "web": "www.face2face.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Ozimska 48B",
+        "distance": 1.4,
+        "email": "info@barabasz.opole.pl",
+        "id": 4362,
+        "latitude": "50.6677589",
+        "longitude": "17.9381789",
+        "name": "SZKO\u0141A P\u0141YWANIA BARABASZ",
+        "phone": "662 146 519, 604 512 889",
+        "web": "www.naukaplywania.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Katowicka 50, Opole",
+        "distance": 1.4,
+        "email": "studio@iqpilates.pl",
+        "id": 62171,
+        "latitude": "50.6670967",
+        "longitude": "17.9365832",
+        "name": "IQ PILATES",
+        "phone": "606 835 759",
+        "web": "www.iqpilates.pl\/#filter=.kontakt",
+        "facebook": "https:\/\/www.facebook.com\/IQ-Pilates-Sylwia-Kapa%C5%82ka-1657578041124924\/timeline\/"
+      }
+    },
+    {
+      "club": {
+        "address": "1 Maja 19, Opole",
+        "distance": 1.4,
+        "email": "maestro@taniec.info",
+        "id": 56416,
+        "latitude": "50.6634457",
+        "longitude": "17.9289507",
+        "name": "Akademia Ta\u0144ca Maestro",
+        "phone": "77 456 50 71",
+        "web": "www.maestro.taniec.info",
+        "facebook": "www.facebook.com\/AkademiaTancaMaestro?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "1 Maja 9, Opole",
+        "distance": 1.4,
+        "email": "taniecopole@interia.eu",
+        "id": 56462,
+        "latitude": "50.6633247",
+        "longitude": "17.9273635",
+        "name": "Opolska Szko\u0142a Ta\u0144ca Novomex",
+        "phone": "602 610 602",
+        "web": "taniec-opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/novomex"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-061, ul. Katowicka 39\/314",
+        "distance": 1.4,
+        "email": "www.english-academy-opole.pl",
+        "id": 4310,
+        "latitude": "50.665806",
+        "longitude": "17.935143",
+        "name": "CENTRUM J\u0118ZYK\u00d3W OBCYCH \"ENGLISH ACADEMY\"",
+        "phone": "691 750 941, 77 550 13 11",
+        "web": "null",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-061, ul. Katowicka 50",
+        "distance": 1.4,
+        "email": "info@yamahaszkola.opole.pl",
+        "id": 4311,
+        "latitude": "50.6670967",
+        "longitude": "17.9365832",
+        "name": "YAMAHA Szko\u0142a Muzyczna",
+        "phone": "77 406 68 54, 784 575 333, 608 034 455",
+        "web": "www.yamahaszkola.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-372, ul. Augustyna Ko\u015bnego 72",
+        "distance": 1.5,
+        "email": "info@bizneslingua.pl",
+        "id": 4325,
+        "latitude": "50.670104",
+        "longitude": "17.941132",
+        "name": "BIZNESLINGUA CENTRUM J\u0118ZYK\u00d3W OBCYCH",
+        "phone": "77 444 44 70",
+        "web": "www.bizneslingua.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 46-020, ul. Niemodli\u0144ska 21",
+        "distance": 1.5,
+        "email": "www.facebook.com\/BajlandiaOpole",
+        "id": 4340,
+        "latitude": "50.666115",
+        "longitude": "17.904827",
+        "name": "Bajlandia",
+        "phone": "511 370 783",
+        "web": "null",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-368, ul. Ozimska 63A",
+        "distance": 1.5,
+        "email": "info@mlp.opole.pl",
+        "id": 4324,
+        "latitude": "50.6681863",
+        "longitude": "17.9397247",
+        "name": "Metropolitan Language Professionals",
+        "phone": "605 250 009, 665 080 009, 796 484 801",
+        "web": "language-professionals.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 102, Opole",
+        "distance": 1.6,
+        "email": "info@centrumkubatura.pl",
+        "id": 66632,
+        "latitude": "50.681744",
+        "longitude": "17.9413799",
+        "name": "Kubatura Centrum Rozrywki",
+        "phone": "+48 603 224 000",
+        "web": "www.centrumkubatura.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/CentrumRozrywkiKUBATURA"
+      }
+    },
+    {
+      "club": {
+        "address": "Katowicka 32, Opole",
+        "distance": 1.6,
+        "email": "um@sum-sklep.pl",
+        "id": 62170,
+        "latitude": "50.664416",
+        "longitude": "17.9363771",
+        "name": "Sum. Sklep z art. w\u0119dkarskimi",
+        "phone": "77 453 92 29",
+        "web": "www.sum-sklep.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Miko\u0142ajczyka 2, Opole",
+        "distance": 1.7,
+        "email": "piotr_kos1988@wp.pl",
+        "id": 65473,
+        "latitude": "50.6827038",
+        "longitude": "17.9429307",
+        "name": "Rise Crew",
+        "phone": "535 666 702",
+        "web": "riseopole.pl\/contact\/",
+        "facebook": "https:\/\/www.facebook.com\/risecfopole"
+      }
+    },
+    {
+      "club": {
+        "address": "Budowlanych 33, Opole",
+        "distance": 1.7,
+        "email": "piotrek@osn.com.pl",
+        "id": 58024,
+        "latitude": "50.6891989",
+        "longitude": "17.91236",
+        "name": "Opolskie Centrum Nurkowe",
+        "phone": "774404032",
+        "web": "www.osn.com.pl\/web.n4?go=5",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 119, Opole",
+        "distance": 1.7,
+        "email": "aline@active.strefa.pl",
+        "id": 66635,
+        "latitude": "50.6840731",
+        "longitude": "17.9413831",
+        "name": "Studio Modelowania Sylwetki A-Line",
+        "phone": "502 088 901",
+        "web": "www.aline.poland4.com\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Grota Roweckiego 17B, Opole",
+        "distance": 1.8,
+        "email": "biuro@oxide.com.pl",
+        "id": 60722,
+        "latitude": "50.6803223",
+        "longitude": "17.9456512",
+        "name": "Oxide Fitness Club",
+        "phone": "77 442 30 40",
+        "web": "www.oxide.com.pl",
+        "facebook": "www.facebook.com\/pages\/Oxide-Fitness-Club\/192919490746055?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Armii Krajowej 9, Opole",
+        "distance": 1.8,
+        "email": "recepcja@maximus.opole.pl",
+        "id": 57015,
+        "latitude": "50.661251",
+        "longitude": "17.934251",
+        "name": "Maximus Fitness Club",
+        "phone": "785 194 551",
+        "web": "www.maximus.opole.pl",
+        "facebook": "www.facebook.com\/MaximusOpole?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Katowick 14, Opole",
+        "distance": 1.8,
+        "email": "sekretariat@mos.opole.pl",
+        "id": 62161,
+        "latitude": "50.662558",
+        "longitude": "17.936486",
+        "name": "Mi\u0119dzyszkolny O\u015brodek Sportowy w Opolu",
+        "phone": "77 453-67-55",
+        "web": "www.mos.opole.pl",
+        "facebook": "https:\/\/www.facebook.com\/MOSOPOLE\/?__fns&hash=Ac0ckmdgll2sz_if"
+      }
+    },
+    {
+      "club": {
+        "address": "St. Miko\u0142ajczyka 14, Opole",
+        "distance": 1.8,
+        "email": "neptunopole@wp.pl",
+        "id": 71052,
+        "latitude": "50.6821468",
+        "longitude": "17.94474",
+        "name": "Neptun. Opolski klub wodny, opolski klub \u017ceglarski",
+        "phone": "784 699 588",
+        "web": "www.neptun.opole.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Szymona Koszyka 21",
+        "distance": 1.9,
+        "email": "ckusnierz@op.pl",
+        "id": 4368,
+        "latitude": "50.6668168",
+        "longitude": "17.8981067",
+        "name": "KLUB KARATE KYOKUSHINKAI",
+        "phone": "692 304 610",
+        "web": "www.klub-karate-kyokushinkai.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Cygana 1, Opole",
+        "distance": 2,
+        "email": "klub@squash.opole.pl",
+        "id": 58802,
+        "latitude": "50.6919672",
+        "longitude": "17.9136259",
+        "name": "Opole Squash Club",
+        "phone": "775 467 038",
+        "web": "www.squash.opole.pl",
+        "facebook": "https:\/\/www.facebook.com\/OpoleSquashClub?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Armii Krajowej 20, Krzanowice",
+        "distance": 2,
+        "email": "",
+        "id": 81806,
+        "latitude": "50.660942",
+        "longitude": "17.938274",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Sosnkowskiego 40\/42, Opole",
+        "distance": 2,
+        "email": "szkola@alimah.pl",
+        "id": 70825,
+        "latitude": "50.682497",
+        "longitude": "17.946556",
+        "name": "Alimah Szko\u0142a Ta\u0144ca Orientalnego",
+        "phone": "536 393 779",
+        "web": "www.alimah.pl",
+        "facebook": "www.facebook.com\/alimahSzkola"
+      }
+    },
+    {
+      "club": {
+        "address": "Sosnkowskiego 12, Opole",
+        "distance": 2,
+        "email": "kontakt@olimp.opole.pl",
+        "id": 70821,
+        "latitude": "50.673603",
+        "longitude": "17.949088",
+        "name": "Fitness Klub Olimp",
+        "phone": "77 455 62 24",
+        "web": "www.olimp.opole.pl",
+        "facebook": "https:\/\/pl-pl.facebook.com\/pages\/Fitness-Klub-Olimp"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Kani 1",
+        "distance": 2,
+        "email": "kontakt@karate-opole.pl",
+        "id": 4350,
+        "latitude": "50.6680326",
+        "longitude": "17.946719",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Telesfora 2, Opole",
+        "distance": 2.1,
+        "email": "centrum.telesfora@gmail.com",
+        "id": 72548,
+        "latitude": "50.6666785",
+        "longitude": "17.9473901",
+        "name": "Centrum Sztuk Walki i rekreacji Rodzinnej \"Zielony Smok\"",
+        "phone": "783 962 066",
+        "web": "zielony-smok.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Centrum-Sztuk-Walk-i-Rekreacji-Rodzinnej\/"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-301, ul. Horoszkiewicza 6\/A101",
+        "distance": 2.1,
+        "email": "kontakt@fabrykacentrum.com.pl",
+        "id": 4321,
+        "latitude": "50.6713377",
+        "longitude": "17.9507877",
+        "name": "FABRYKA CENTRUM ARTYSTYCZNO-EDUKACYJNE",
+        "phone": "884 032 999",
+        "web": "fabrykacentrum.com.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Cementowa 1\/5, Opole",
+        "distance": 2.1,
+        "email": "krystyna@szkolaplywania.pl",
+        "id": 58343,
+        "latitude": "50.66363",
+        "longitude": "17.94408",
+        "name": "Szko\u0142a P\u0142ywania Komendy",
+        "phone": "608 52 88 87",
+        "web": "szkolaplywania.pl\/kontakt\/",
+        "facebook": "https:\/\/www.facebook.com\/KrystynaKomendaOpole"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-850, ul. Partyzancka 8a",
+        "distance": 2.2,
+        "email": "info@polanka.opole.pl",
+        "id": 4336,
+        "latitude": "50.679386",
+        "longitude": "17.890496",
+        "name": "POLANKA \u2013 Centrum Rekreacji dla Dzieci i Doros\u0142ych",
+        "phone": "77 474 47 02",
+        "web": "polanka.opole.pl\/17\/strona-glowna.html",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-864, ul. Niemodli\u0144ska 63",
+        "distance": 2.2,
+        "email": "biuro@formini.pl",
+        "id": 4337,
+        "latitude": "50.6625542",
+        "longitude": "17.8971273",
+        "name": "FORMINI Fitness klub dla dzieci",
+        "phone": "606 789 950",
+        "web": "formini.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "K\u0119pska 20, Opole",
+        "distance": 2.2,
+        "email": "wakeparkopole@gmail.com",
+        "id": 62274,
+        "latitude": "50.6948616",
+        "longitude": "17.9239462",
+        "name": "WakePark Opole",
+        "phone": "537 090 969",
+        "web": "wakeparkopole.pl",
+        "facebook": "http:\/\/facebook.com\/wakeparkopole"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-094, ul. Spacerowa 10",
+        "distance": 2.2,
+        "email": "zoo@zoo.opole.pl",
+        "id": 4318,
+        "latitude": "50.6557425",
+        "longitude": "17.925075",
+        "name": "Ogr\u00f3d Zoologiczny",
+        "phone": "77 454 28 58",
+        "web": "zoo.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Niemodli\u0144ska 63, Opole",
+        "distance": 2.2,
+        "email": "biuro@formini.pl",
+        "id": 66126,
+        "latitude": "50.6625542",
+        "longitude": "17.8971273",
+        "name": "FORMINI FITNESS KLUB DLA DZIECI",
+        "phone": "606 789 950",
+        "web": "formini.pl\/rodzajezajec\/mama-fit\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Spacerowa 10, Opole",
+        "distance": 2.2,
+        "email": "zoo@zoo.opole.pl",
+        "id": 70885,
+        "latitude": "50.6557425",
+        "longitude": "17.925075",
+        "name": "Mini Park Linowy ZOOLANDIA",
+        "phone": "781701034",
+        "web": "www.zoo.opole.pl\/strona\/29\/mini_park_linowy_zoolandia.html",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Ogr%C3%B3d-Zoologiczny-w-Opolu\/311220932418126?fref=ts&rf=130074407033903"
+      }
+    },
+    {
+      "club": {
+        "address": "Majora Hubala 2, Opole",
+        "distance": 2.2,
+        "email": "marcinkrupinski@plywajacaszkola.pl",
+        "id": 65011,
+        "latitude": "50.6808762",
+        "longitude": "17.9505225",
+        "name": "P\u0142ywaj\u0105ca Szko\u0142a",
+        "phone": "512115106",
+        "web": "www.plywajacaszkola.pl",
+        "facebook": "www.facebook.com\/pages\/P\u0142ywaj\u0105ca-Szko\u0142a-Ma\u0142ych-Bohater\u00f3w-Marcina-Krupi\u0144skiego\/406039049458123?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-267, ul. Majora \\\"Hubala\\\" 2",
+        "distance": 2.2,
+        "email": "ukstrolik@atd.com.pl",
+        "id": 4319,
+        "latitude": "50.6808762",
+        "longitude": "17.9505225",
+        "name": "UCZNIOWSKI KLUB SPORTOWY TROLIK",
+        "phone": "660 740 382",
+        "web": "trolik.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Kowalska 2",
+        "distance": 2.2,
+        "email": "biuro@gwardiaopole.pl",
+        "id": 4353,
+        "latitude": "50.6565201",
+        "longitude": "17.9305999",
+        "name": "Klub Sportowy Gwardia Opole",
+        "phone": "77 453 63 97, 77 453 77 71",
+        "web": "ksgwardiaopole.pl\/pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Szarych Szereg\u00f3w 1",
+        "distance": 2.2,
+        "email": "kontakt@aikido-osa.pl",
+        "id": 4367,
+        "latitude": "50.6757874",
+        "longitude": "17.9518303",
+        "name": "Og\u00f3lnopolskie Stowarzyszenie Aikido \u201eAikikai Polska\u201d",
+        "phone": "601 862 570, 601 464 477, 502 722 858",
+        "web": "aikido-osa.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Majora 'Hubala' 2",
+        "distance": 2.2,
+        "email": "info@barabasz.opole.pl",
+        "id": 4355,
+        "latitude": "50.6808762",
+        "longitude": "17.9505225",
+        "name": "SZKO\u0141A P\u0141YWANIA BARABASZ",
+        "phone": "662 146 519, 604 512 889",
+        "web": "www.naukaplywania.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Majora Hubala 2",
+        "distance": 2.2,
+        "email": "kontakt@karate-opole.pl",
+        "id": 4356,
+        "latitude": "50.6808762",
+        "longitude": "17.9505225",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ma\u0142opolska , Opole",
+        "distance": 2.2,
+        "email": "annazolud@gmail.com",
+        "id": 65227,
+        "latitude": "50.6716089",
+        "longitude": "17.951997",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013",
+        "web": "www.aikido-opole.com\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Klub-Przyjaci\u00f3\u0142-Aikido-Anna-\u017bo\u0142ud"
+      }
+    },
+    {
+      "club": {
+        "address": "K\u0119pska 10, Opole",
+        "distance": 2.2,
+        "email": "indoorcarting@op.pl",
+        "id": 62273,
+        "latitude": "50.6950499",
+        "longitude": "17.92013",
+        "name": "Tor Kartngowy Opole",
+        "phone": "602 658 351",
+        "web": "www.torkartingowyopole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/TorKartingowy"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. K\u0119pskiej 8",
+        "distance": 2.2,
+        "email": "rolki@redwheel.opole.pl",
+        "id": 4352,
+        "latitude": "50.6948359",
+        "longitude": "17.9166475",
+        "name": "Szk\u00f3\u0142ka Rolkarska REDwheel",
+        "phone": "600 485 554",
+        "web": "redwheel.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Wroc\u0142awska 107, Opole",
+        "distance": 2.3,
+        "email": "malgorzatamadej@poczta.onet.pl",
+        "id": 75196,
+        "latitude": "50.6775079",
+        "longitude": "17.88831",
+        "name": "Ma\u0142gorzata Madej Studio Jogi",
+        "phone": "604957145",
+        "web": "www.madej.opole.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-285, ul. Szarych Szereg\u00f3w 56\/301",
+        "distance": 2.3,
+        "email": "marcinkrupinski@plywajacaszkola.pl",
+        "id": 4320,
+        "latitude": "50.6741539",
+        "longitude": "17.9542909",
+        "name": "P\u0142ywaj\u0105ca Szko\u0142a Ma\u0142ych Bohater\u00f3w Marcina Krupi\u0144skiego",
+        "phone": "512 115 106",
+        "web": "www.plywajacaszkola.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Ma\u0142opolska 20",
+        "distance": 2.4,
+        "email": "annazolud@gmail.com",
+        "id": 4357,
+        "latitude": "50.672033",
+        "longitude": "17.955634",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013, 502 120 567, 500 284 932",
+        "web": "aikido-opole.com",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Alojzego Dambonia 10-12, Krzanowice",
+        "distance": 2.5,
+        "email": "",
+        "id": 81811,
+        "latitude": "50.664097",
+        "longitude": "17.889751",
+        "name": "Si\u0142ownia Outdoor Firness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Pu\u017caka 13, Opole",
+        "distance": 2.5,
+        "email": "ambasada@ambasadaurody.com",
+        "id": 69168,
+        "latitude": "50.6871838",
+        "longitude": "17.9515686",
+        "name": "AMBASADA URODY Wellness & Spa",
+        "phone": "77 400 80 13",
+        "web": "ambasadaurody.com\/",
+        "facebook": "https:\/\/www.facebook.com\/ambasadaurodyopole"
+      }
+    },
+    {
+      "club": {
+        "address": "Hubala 14c\/10, Opole",
+        "distance": 2.5,
+        "email": "plywanie.skretek@wp.pl",
+        "id": 61122,
+        "latitude": "50.6824513",
+        "longitude": "17.95411",
+        "name": "Profesjonalna nauka P\u0142ywania Skr\u0119tek",
+        "phone": "606 838 900",
+        "web": "www.skretek.pl\/kontakt",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Wiejska 58, Krzanowice",
+        "distance": 2.6,
+        "email": "",
+        "id": 81809,
+        "latitude": "50.684181",
+        "longitude": "17.954866",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 48-864, ul. Niemodli\u0144ska 79",
+        "distance": 2.7,
+        "email": "opole@britishschool.pl",
+        "id": 4341,
+        "latitude": "50.661138",
+        "longitude": "17.8893983",
+        "name": "BRITISH SCHOOL Og\u00f3lnopolska Szko\u0142a J\u0119zykowa",
+        "phone": "77 457 33 78, 608 588 886",
+        "web": "kursy-angielski.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Sosnkowskiego 4a\/20",
+        "distance": 2.7,
+        "email": "www.helendoron.pl\/opole",
+        "id": 4364,
+        "latitude": "50.6733677",
+        "longitude": "17.9595535",
+        "name": "Helen Doron English",
+        "phone": "519 132 436",
+        "web": "null",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Cmentarna 7, Opole",
+        "distance": 2.7,
+        "email": "annazolud@gmail.com",
+        "id": 58791,
+        "latitude": "50.676415",
+        "longitude": "17.882437",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013",
+        "web": "www.aikido-opole.com\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Klub-Przyjaci\u00f3\u0142-Aikido-Anna-\u017bo\u0142ud"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-758, ul. Pr\u00f3szkowska 96",
+        "distance": 2.8,
+        "email": "wodnanuta@mosir.opole.pl",
+        "id": 4332,
+        "latitude": "50.651773",
+        "longitude": "17.9048119",
+        "name": "Kryta P\u0142ywalnia WODNA NUTA",
+        "phone": "77 543 36 50",
+        "web": "mosir.opole.pl\/obiekt\/kryta-plywalnia-wodna-nuta",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Pr\u00f3szkowska 96",
+        "distance": 2.8,
+        "email": "plywanie.skretek@wp.pl",
+        "id": 4363,
+        "latitude": "50.651773",
+        "longitude": "17.9048119",
+        "name": "\"SKR\u0118TEK\" Szko\u0142a P\u0142ywania",
+        "phone": "606 838 900",
+        "web": "www.skretek.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Pr\u00f3szkowska 95, Opole",
+        "distance": 2.8,
+        "email": "",
+        "id": 79711,
+        "latitude": "50.651643",
+        "longitude": "17.906501",
+        "name": "Kara\u015b. Sklep w\u0119dkarski",
+        "phone": "507 668 740",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Zamiejska 79, Opole",
+        "distance": 2.8,
+        "email": "rejestracja@aqua-reh.pl",
+        "id": 75700,
+        "latitude": "50.6718009",
+        "longitude": "17.882427",
+        "name": "Aqua Reh",
+        "phone": "77 553 20 50",
+        "web": "aqua-reh.pl\/kontakt\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Pr\u00f3szkowska 96, Opole",
+        "distance": 2.8,
+        "email": "wodnanuta@mosir.opole.pl",
+        "id": 68873,
+        "latitude": "50.651773",
+        "longitude": "17.9048119",
+        "name": "MOSiR w Opolu - Kryta P\u0142ywalnia",
+        "phone": "775433650",
+        "web": "mosir.opole.pl\/obiekt\/kryta-plywalnia-wodna-nuta\/",
+        "facebook": "https:\/\/web.facebook.com\/MOSiR-Opole-290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Rzeszowska 1, Opole",
+        "distance": 2.9,
+        "email": "leszek.jaremkowski@gmail.com",
+        "id": 70070,
+        "latitude": "50.6716593",
+        "longitude": "17.9616079",
+        "name": "Forca Brava",
+        "phone": "501363401",
+        "web": "www.forcabrava.pl",
+        "facebook": "https:\/\/www.facebook.com\/FORCA-BRAVA-171363549581313"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Niemodli\u0144ska 87",
+        "distance": 3.1,
+        "email": "kontakt@aikido-osa.pl",
+        "id": 4359,
+        "latitude": "50.6615121",
+        "longitude": "17.8829049",
+        "name": "Og\u00f3lnopolskie Stowarzyszenie Aikido \u201eAikikai Polska\u201d",
+        "phone": "601 464 477, 502 722 858",
+        "web": "aikido-osa.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Jagiellon\u00f3w 41, Opole",
+        "distance": 3.2,
+        "email": "info@spartakus.opole.pl",
+        "id": 61281,
+        "latitude": "50.651263",
+        "longitude": "17.9472029",
+        "name": "Spartakus",
+        "phone": "502229370",
+        "web": "www.spartakus.opole.pl\/web.n4?go=13",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Wroc\u0142awska 154, Opole",
+        "distance": 3.2,
+        "email": "karolinka@kinderplaneta.pl",
+        "id": 75207,
+        "latitude": "50.682176",
+        "longitude": "17.8769338",
+        "name": "Kinderplaneta",
+        "phone": "77 474 38 74",
+        "web": "www.kinderplaneta.pl\/opole",
+        "facebook": "https:\/\/www.facebook.com\/kinderplaneta"
+      }
+    },
+    {
+      "club": {
+        "address": "Ozimska 181, Opole",
+        "distance": 3.2,
+        "email": "info@citisun.com.pl",
+        "id": 67264,
+        "latitude": "50.6698791",
+        "longitude": "17.9657564",
+        "name": "Citi Sun",
+        "phone": "519 059 503",
+        "web": "www.citysun.com.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Wandy Rutkiewicz 10, Opole",
+        "distance": 3.2,
+        "email": "centrumsportu@mosir.opole.pl",
+        "id": 73119,
+        "latitude": "50.6885558",
+        "longitude": "17.8810795",
+        "name": "MOSiR w Opolu - Centrum Sportu",
+        "phone": "775430135",
+        "web": "mosir.opole.pl\/obiekt\/kompleks-boisk-centrum-sportu\/",
+        "facebook": "https:\/\/web.facebook.com\/MOSiR-Opole-290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-837, ul. Wroc\u0142awska 154",
+        "distance": 3.2,
+        "email": "karolinka@kinderplaneta.pl",
+        "id": 4335,
+        "latitude": "50.681961",
+        "longitude": "17.8777291",
+        "name": "Kinderplaneta",
+        "phone": "669 021 135",
+        "web": "www.kinderplaneta.pl\/opole",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "P\u00f3\u0142nocna , Krzanowice",
+        "distance": 3.4,
+        "email": "",
+        "id": 81643,
+        "latitude": "50.688717",
+        "longitude": "17.878119",
+        "name": "Si\u0142ownia Outdoor Fitness w Centrum Sportu",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-557, ul. Ostroroga 1\/2",
+        "distance": 3.4,
+        "email": "biuro@ieps.com.pl",
+        "id": 4330,
+        "latitude": "50.6525133",
+        "longitude": "17.9539807",
+        "name": "Instytut Edukacji przez Sztuk\u0119",
+        "phone": "507 738 765, 507 738 765",
+        "web": "www.ieps.com.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Jana Szczeszy\u0144skiego 14, Krzanowice",
+        "distance": 3.4,
+        "email": "",
+        "id": 81810,
+        "latitude": "50.649063",
+        "longitude": "17.945875",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Spokojna 6A",
+        "distance": 3.4,
+        "email": "szkola@tenisopole.pl",
+        "id": 4365,
+        "latitude": "50.694432",
+        "longitude": "17.884045",
+        "name": "Centrum Tenisowe OpolTenis",
+        "phone": "570 386 869",
+        "web": "opoltenis.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Bielska , Opole",
+        "distance": 3.5,
+        "email": "",
+        "id": 81337,
+        "latitude": "50.6721065",
+        "longitude": "17.970551",
+        "name": "Betonowy skatepark w Opolu",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Bielska 1, Opole",
+        "distance": 3.5,
+        "email": "sklep@karpik.sklep.pl",
+        "id": 57494,
+        "latitude": "50.6721065",
+        "longitude": "17.970551",
+        "name": "Karpik Sklep W\u0119dkarski",
+        "phone": "604 073 832",
+        "web": "karpik.sklep.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/SalonKarpik"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-401, ul. Bielska 13- 21",
+        "distance": 3.5,
+        "email": "info@redbusschool.pl",
+        "id": 4326,
+        "latitude": "50.6720472",
+        "longitude": "17.9702432",
+        "name": "RED BUS SCHOOL Ma\u0142gorzata Stolarczyk",
+        "phone": "77 459 36 62, 607 348 037",
+        "web": "www.redbusschool.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Bielska 2, Opole",
+        "distance": 3.5,
+        "email": "mosir@mosir.opole.pl",
+        "id": 57497,
+        "latitude": "50.6721065",
+        "longitude": "17.970551",
+        "name": "MOSiR w Opolu - Skatepark",
+        "phone": "774543266",
+        "web": "mosir.opole.pl\/obiekt\/skate-park-w-opolu\/",
+        "facebook": "https:\/\/web.facebook.com\/MOSiR-Opole-290442034349011"
+      }
+    },
+    {
+      "club": {
+        "address": "Bielska 17\/1, Opole",
+        "distance": 3.6,
+        "email": "hod@houseofdolls.pl",
+        "id": 57496,
+        "latitude": "50.674172",
+        "longitude": "17.9717379",
+        "name": "House of Dolls Atelier Urody",
+        "phone": "518 080 111",
+        "web": "www.houseofdolls.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/House-of-Dolls-Atelier-Urody-456703907824531\/timeline\/"
+      }
+    },
+    {
+      "club": {
+        "address": "Bielska , Opole",
+        "distance": 3.6,
+        "email": "",
+        "id": 77543,
+        "latitude": "50.674172",
+        "longitude": "17.9717379",
+        "name": "Boisko Orlik",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Che\u0142mska 20, Krzanowice",
+        "distance": 3.7,
+        "email": "",
+        "id": 81807,
+        "latitude": "50.672562",
+        "longitude": "17.973984",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Krzemieniecka 58\/3, Opole",
+        "distance": 3.7,
+        "email": "info@ascent.net.pl",
+        "id": 64095,
+        "latitude": "50.6758946",
+        "longitude": "17.9742076",
+        "name": "Szko\u0142a Sport\u00f3w G\u00f3rskich Ascent",
+        "phone": "697 460 052",
+        "web": "www.ascent.net.pl\/kontakt.php",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-401, ul. Kielecka 5\/2",
+        "distance": 3.7,
+        "email": "kontakt@spanglishschool.opole.pl",
+        "id": 4327,
+        "latitude": "50.6727429",
+        "longitude": "17.973019",
+        "name": "Spanglish School",
+        "phone": "602 639 250",
+        "web": "spanglishschool.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "G\u0142ogowska 41, Opole",
+        "distance": 3.8,
+        "email": "kontakt@redcorneropole.pl",
+        "id": 60949,
+        "latitude": "50.658062",
+        "longitude": "17.968825",
+        "name": "Red Corner Opole Cendrowski Team",
+        "phone": "604188082",
+        "web": "www.redcorneropole.pl",
+        "facebook": "www.facebook.com\/okbboks?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-836, ul. Wroc\u0142awska 172",
+        "distance": 4,
+        "email": "biuro@ostroga.opole.pl",
+        "id": 4334,
+        "latitude": "50.6817799",
+        "longitude": "17.8655709",
+        "name": "LUDOWY KLUB JE\u0179DZIECKI \"OSTROGA\"",
+        "phone": "77 457 23 31, 609 250 754",
+        "web": "www.ostroga.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Broniewskiego 26, Opole",
+        "distance": 4,
+        "email": "biuro@dynamika.pl",
+        "id": 57894,
+        "latitude": "50.6651759",
+        "longitude": "17.97592",
+        "name": "Fitness Club Dynamika",
+        "phone": "774008092",
+        "web": "www.dynamika.pl",
+        "facebook": "https:\/\/web.facebook.com\/FitnessClubDynamika\/"
+      }
+    },
+    {
+      "club": {
+        "address": "Wrzosowa 12d, Opole",
+        "distance": 4.1,
+        "email": "bleumarine@interia.pl",
+        "id": 75265,
+        "latitude": "50.6674",
+        "longitude": "17.978084",
+        "name": "Salon Urody Bleu Marine     Day Spa Willa Wrzosowa",
+        "phone": "77 547 27 89",
+        "web": "www.bleumarine.pl\/Kontakt.html",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Wrzosowa 8, Opole",
+        "distance": 4.1,
+        "email": "info@smoczajama.opole.pl",
+        "id": 75268,
+        "latitude": "50.6680209",
+        "longitude": "17.9784559",
+        "name": "Smocza Jama",
+        "phone": "77 458 22 22",
+        "web": "www.smoczajama.opole.pl",
+        "facebook": "https:\/\/www.facebook.com\/smoczajama.opole"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-469, ul. Wrzosowa 8",
+        "distance": 4.1,
+        "email": "info@smoczajama.opole.pl",
+        "id": 4329,
+        "latitude": "50.6680209",
+        "longitude": "17.9784559",
+        "name": "SMOCZA JAMA",
+        "phone": "77 458 22 22",
+        "web": "www.smoczajama.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Stara Droga 1, Win\u00f3w",
+        "distance": 4.3,
+        "email": "biuro@asgard.opole.pl",
+        "id": 71101,
+        "latitude": "50.6377515",
+        "longitude": "17.9030904",
+        "name": "Asgard",
+        "phone": "888 564 953",
+        "web": "www.asgard.opole.pl",
+        "facebook": "https:\/\/www.facebook.com\/Asgard.Sciana.Wspinaczkowa"
+      }
+    },
+    {
+      "club": {
+        "address": "Stara Droga 1, Opole",
+        "distance": 4.3,
+        "email": "biuro@asgard.opole.pl",
+        "id": 71100,
+        "latitude": "50.6377515",
+        "longitude": "17.9030904",
+        "name": "Asgard",
+        "phone": "888 564 953",
+        "web": "asgard.opole.pl",
+        "facebook": "https:\/\/www.facebook.com\/Asgard.Sciana.Wspinaczkowa"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Szarotki 1A",
+        "distance": 4.5,
+        "email": "rodloopole@o2.pl",
+        "id": 4366,
+        "latitude": "50.6663002",
+        "longitude": "17.983995",
+        "name": "Uczniowski Klub Sportowy Rod\u0142o Opole",
+        "phone": "501 216 172, 600 873 326, 661 672 075, 502 474 980",
+        "web": "rodloopole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole 45-410, ul. Drobiarska 4",
+        "distance": 4.6,
+        "email": "valkyriacf@gmail.com",
+        "id": 4328,
+        "latitude": "50.6751899",
+        "longitude": "17.987143",
+        "name": "Opolska Akademia Capoeira grupy CPPA",
+        "phone": "512 347 007",
+        "web": "capoeiraopole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Grudzicka 48, Opole",
+        "distance": 4.6,
+        "email": "annazolud@gmail.com",
+        "id": 60759,
+        "latitude": "50.6656369",
+        "longitude": "17.985423",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013",
+        "web": "www.aikido-opole.com\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Klub-Przyjaci\u00f3\u0142-Aikido-Anna-\u017bo\u0142ud"
+      }
+    },
+    {
+      "club": {
+        "address": "Drobiarska 4, Opole",
+        "distance": 4.6,
+        "email": "guerreiro@o2.pl",
+        "id": 59322,
+        "latitude": "50.6751899",
+        "longitude": "17.987143",
+        "name": "Opolska Akademia Capoeira - Centrum Sztuk Walk",
+        "phone": "512347007",
+        "web": "www.sztukiwalki.opole.pl",
+        "facebook": "www.facebook.com\/OpolskieCentrumSztukWalk?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Orzechowa 12\/2, Opole",
+        "distance": 4.6,
+        "email": "zapisy@kursyplywania.opole.pl",
+        "id": 66926,
+        "latitude": "50.6673692",
+        "longitude": "17.9861034",
+        "name": "Profesjonalne Kursy P\u0142ywania Retman",
+        "phone": "501 425 092",
+        "web": "www.kursyplywania.opole.pl\/kursy_plywania\/nauka-plywania-opole",
+        "facebook": "https:\/\/www.facebook.com\/szkolaplywaniaopole"
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Grudzicka 48",
+        "distance": 4.7,
+        "email": "annazolud@gmail.com",
+        "id": 4348,
+        "latitude": "50.6655742",
+        "longitude": "17.9861677",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013, 502 120 567, 500 284 932",
+        "web": "aikido-opole.com",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Nowowiejska 3, Krzanowice",
+        "distance": 4.7,
+        "email": "",
+        "id": 81808,
+        "latitude": "50.663582",
+        "longitude": "17.984835",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Nyska 1",
+        "distance": 4.8,
+        "email": "kontakt@karate-opole.pl",
+        "id": 4360,
+        "latitude": "50.6490329",
+        "longitude": "17.867119",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Kani 1, Czarnow\u0105sy",
+        "distance": 5.2,
+        "email": "annazolud@gmail.com",
+        "id": 61921,
+        "latitude": "50.72085",
+        "longitude": "17.9032759",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013",
+        "web": "www.aikido-opole.com\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Klub-Przyjaci\u00f3\u0142-Aikido-Anna-\u017bo\u0142ud"
+      }
+    },
+    {
+      "club": {
+        "address": "D\u0119bowa 1, Zawada",
+        "distance": 5.8,
+        "email": "tor.silverstone@gmail.com",
+        "id": 59186,
+        "latitude": "50.7239562",
+        "longitude": "17.9488277",
+        "name": "Silverstone",
+        "phone": "795851336",
+        "web": "www.torsilverstone.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/torsilverstone?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Czarnow\u0105sy 46-020, ul. W\u0142adys\u0142awa Jagie\u0142\u0142y 13",
+        "distance": 5.8,
+        "email": "ces.verbum@gmail.com",
+        "id": 888,
+        "latitude": "50.7253666",
+        "longitude": "17.899873",
+        "name": "Centrum Edukacyjno-Szkoleniowe Verbum",
+        "phone": "662 424 014",
+        "web": "www.verbum.opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Wiktora Gorzo\u0142ki 4, Krzanowice",
+        "distance": 6.3,
+        "email": "",
+        "id": 81813,
+        "latitude": "50.625088",
+        "longitude": "17.962206",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Opole, ul. Wiktora Gorzo\u0142ki 4",
+        "distance": 6.3,
+        "email": "kontakt@karate-opole.pl",
+        "id": 4369,
+        "latitude": "50.6250895",
+        "longitude": "17.9622065",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 24, Luboszyce",
+        "distance": 6.5,
+        "email": "stajniazawada@stajniazawada.pl",
+        "id": 66636,
+        "latitude": "50.7122449",
+        "longitude": "17.991965",
+        "name": "Stajnia ZAWADA",
+        "phone": "604 365 540",
+        "web": "www.stajniazawada.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Stajnia-Zawada\/1384778401763821"
+      }
+    },
+    {
+      "club": {
+        "address": "gm. D\u0105browa , Chr\u00f3\u015bcina",
+        "distance": 6.8,
+        "email": "",
+        "id": 77161,
+        "latitude": "50.6707885",
+        "longitude": "17.8248922",
+        "name": "Boisko Orlik",
+        "phone": "608 430 375",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Sko\u015bna 9, Zawada",
+        "distance": 7.9,
+        "email": "tenis@hartphp.com.pl",
+        "id": 70556,
+        "latitude": "50.7220139",
+        "longitude": "18.0047709",
+        "name": "Hart PHP - Centrum Tenisowe Zawada",
+        "phone": "77 421 24 75",
+        "web": "www.hart-tenis.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Komprachcice, ul. Niemodli\u0144ska 2",
+        "distance": 8,
+        "email": "sokkomprachcice@gmail.com",
+        "id": 2602,
+        "latitude": "50.635602",
+        "longitude": "17.825802",
+        "name": "Samorz\u0105dowy O\u015brodek Kultury w Komprachcicach",
+        "phone": "77 464 62 22, 513 039 795",
+        "web": "sokkomprachcice.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Komprachcice, Komprachcice",
+        "distance": 8,
+        "email": "kontakt@karate-opole.pl",
+        "id": 2601,
+        "latitude": "50.629311",
+        "longitude": "17.8332763",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Komprachcice, ul. Szkolna 18",
+        "distance": 8.1,
+        "email": "biuro@osir.komprachcice.pl",
+        "id": 2603,
+        "latitude": "50.637212",
+        "longitude": "17.8236789",
+        "name": "O\u015brodek Sportu i Rekreacji w Komprachcicach",
+        "phone": "518 647 801, 77 464 60 40, 606 591 590",
+        "web": "osir.komprachcice.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Z\u0142ota , Opole",
+        "distance": 8.5,
+        "email": "",
+        "id": 81336,
+        "latitude": "50.606449",
+        "longitude": "17.975198",
+        "name": "Skatepark Opole",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Z\u0142ota 63-64, Krzanowice",
+        "distance": 8.6,
+        "email": "",
+        "id": 81812,
+        "latitude": "50.605518",
+        "longitude": "17.975126",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Droga Krajowa 45 ",
+        "distance": 8.9,
+        "email": "",
+        "id": 80581,
+        "latitude": "50.594887",
+        "longitude": "17.93162",
+        "name": "Si\u0142ownia Zewn\u0119trzna",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Droga Krajowa 45 , Z\u0142otniki",
+        "distance": 8.9,
+        "email": "",
+        "id": 81856,
+        "latitude": "50.594887",
+        "longitude": "17.93162",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Droga Krajowa 45 ",
+        "distance": 8.9,
+        "email": "",
+        "id": 80435,
+        "latitude": "50.594887",
+        "longitude": "17.93162",
+        "name": "Si\u0142ownia Outdoor Fitness",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Rolnicza , Komprachcice",
+        "distance": 8.9,
+        "email": "",
+        "id": 78461,
+        "latitude": "50.634631",
+        "longitude": "17.8129416",
+        "name": "Boisko Orlik",
+        "phone": "791 468 577",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Suchy B\u00f3r 46-053, ul. Chabrowa 6",
+        "distance": 9.1,
+        "email": "biuro@ieps.com.pl",
+        "id": 5992,
+        "latitude": "50.6549584",
+        "longitude": "18.0460308",
+        "name": "Instytut Edukacji przez Sztuk\u0119",
+        "phone": "507 738 765, 507 738 765",
+        "web": "www.ieps.com.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Odrza\u0144ska 9, Opole",
+        "distance": 10.5,
+        "email": "",
+        "id": 82606,
+        "latitude": "50.7401305",
+        "longitude": "17.812575",
+        "name": "Si\u0142ownia Zewn\u0119trzna Fit Park",
+        "phone": null,
+        "web": "http:\/\/www.fitpark.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Polska Nowa Wie\u015b - Lotnisko , Komprachcice",
+        "distance": 11,
+        "email": "biuro@aeroklub.opole.pl",
+        "id": 68327,
+        "latitude": "50.6320966",
+        "longitude": "17.7805996",
+        "name": "Aeroklub Opolski im. Lotnik\u00f3w Powstania Warszawskiego",
+        "phone": "774646226",
+        "web": "www.aeroklub.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Aeroklub-Opolski\/193494264149419"
+      }
+    },
+    {
+      "club": {
+        "address": "Ko\u015bcielna 3, Dobrze\u0144 Wielki",
+        "distance": 11,
+        "email": "",
+        "id": 79411,
+        "latitude": "50.7610093",
+        "longitude": "17.8450795",
+        "name": "Boisko Orlik",
+        "phone": "884 376 078",
+        "web": "",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Kompleks-Boisk-Sportowych-Orlik-w-Dobrzeniu-Wielkim\/347235635387746"
+      }
+    },
+    {
+      "club": {
+        "address": "Dobrze\u0144 Wielki, ul. Ko\u015bcielna 3A",
+        "distance": 11,
+        "email": "annazolud@gmail.com",
+        "id": 1066,
+        "latitude": "50.7613569",
+        "longitude": "17.8452653",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013, 502 120 567, 500 284 932",
+        "web": "aikido-opole.com",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ozimska 40, Chrz\u0105stowice",
+        "distance": 11.1,
+        "email": "",
+        "id": 80757,
+        "latitude": "50.665752",
+        "longitude": "18.07786",
+        "name": "Si\u0142ownia zewn\u0119trzna Krone Sport",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "os. Energetyk 13B\/5, Dobrze\u0144 Wielki",
+        "distance": 11.1,
+        "email": "lukasz@paragela.pl",
+        "id": 66977,
+        "latitude": "50.7639751",
+        "longitude": "17.8509369",
+        "name": "Spadochrony.org \u0141ukasz Geilke",
+        "phone": "601 453 624",
+        "web": "www.spadochrony.org\/",
+        "facebook": "https:\/\/www.facebook.com\/MagixJump4YOU"
+      }
+    },
+    {
+      "club": {
+        "address": "Le\u015bna , Osowiec",
+        "distance": 11.3,
+        "email": "",
+        "id": 80643,
+        "latitude": "50.754123",
+        "longitude": "18.0226321",
+        "name": "Si\u0142ownia zewn\u0119trzna Erfit",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Daszy\u0144skiego 12, Pr\u00f3szk\u00f3w",
+        "distance": 11.3,
+        "email": "recepcja@hotelarkas.pl",
+        "id": 59146,
+        "latitude": "50.5769967",
+        "longitude": "17.8804383",
+        "name": "Hotel Arkas",
+        "phone": "530 075 662",
+        "web": "www.hotelarkas.pl\/kontakt",
+        "facebook": "https:\/\/www.facebook.com\/HotelArkas?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Wawelno, Wawelno",
+        "distance": 11.4,
+        "email": "kontakt@karate-opole.pl",
+        "id": 7632,
+        "latitude": "50.6566341",
+        "longitude": "17.7625155",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Pr\u00f3szk\u00f3w , Pr\u00f3szk\u00f3w",
+        "distance": 11.5,
+        "email": "",
+        "id": 79421,
+        "latitude": "50.5766701",
+        "longitude": "17.8714049",
+        "name": "Boisko Orlik",
+        "phone": "600 345 696",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Pr\u00f3szk\u00f3w",
+        "distance": 11.5,
+        "email": "biuro@e-esb.com",
+        "id": 5028,
+        "latitude": "50.5766701",
+        "longitude": "17.8714049",
+        "name": "Columbus Szko\u0142a J\u0119zykowa",
+        "phone": "606 385 112",
+        "web": "www.face2face.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opolska 2, Pr\u00f3szk\u00f3w",
+        "distance": 11.5,
+        "email": "",
+        "id": 80622,
+        "latitude": "50.5766701",
+        "longitude": "17.8714049",
+        "name": "Si\u0142ownia zewn\u0119trzna Erfit",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Dobrze\u0144 Wielki, Dobrze\u0144 Wielki",
+        "distance": 11.6,
+        "email": "kontakt@karate-opole.pl",
+        "id": 1065,
+        "latitude": "50.7668769",
+        "longitude": "17.844385",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opolska 15, Chrz\u0105stowice",
+        "distance": 11.8,
+        "email": "p.iwo@wp.pl",
+        "id": 66882,
+        "latitude": "50.66941",
+        "longitude": "18.0879939",
+        "name": "Gospoda 110 Da\u0144 Hotel-Tenis",
+        "phone": "77 427 08 40",
+        "web": "www.hoteltenis.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Namys\u0142owska 94, Dobrze\u0144 Wielki",
+        "distance": 11.9,
+        "email": "annazolud@gmail.com",
+        "id": 66002,
+        "latitude": "50.7735803",
+        "longitude": "17.8557194",
+        "name": "Klub Przyjaci\u00f3\u0142 Aikido",
+        "phone": "698 615 013",
+        "web": "www.aikido-opole.com\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Klub-Przyjaci\u00f3\u0142-Aikido-Anna-\u017bo\u0142ud"
+      }
+    },
+    {
+      "club": {
+        "address": "Wroc\u0142awska 32, Dobrze\u0144 Wielki",
+        "distance": 11.9,
+        "email": "sandra.janik@o2.pl",
+        "id": 75222,
+        "latitude": "50.769722",
+        "longitude": "17.8415912",
+        "name": "Stara Szwalnia",
+        "phone": "666 718 070",
+        "web": "kregielnia.opole.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Stara-Szwalnia-kr%C4%99gielnia-Noclegi\/332277393450578"
+      }
+    },
+    {
+      "club": {
+        "address": "Ciepielowice, Ciepielowice",
+        "distance": 12.4,
+        "email": "kontakt@karate-opole.pl",
+        "id": 854,
+        "latitude": "50.6991953",
+        "longitude": "17.7498885",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Opolska , Turawa",
+        "distance": 13,
+        "email": "",
+        "id": 80722,
+        "latitude": "50.737878",
+        "longitude": "18.07665",
+        "name": "Si\u0142ownia zewn\u0119trzna Krone Sport",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Wiejska 53, D\u0119bska Ku\u017ania",
+        "distance": 13.2,
+        "email": "",
+        "id": 79016,
+        "latitude": "50.6626882",
+        "longitude": "18.1072001",
+        "name": "Boisko Orlik",
+        "phone": "692 401 005",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Ko\u015bcielna 13, K\u0105ty Opolskie",
+        "distance": 13.4,
+        "email": "",
+        "id": 80371,
+        "latitude": "50.5595347",
+        "longitude": "17.9740499",
+        "name": "Restauracja Hotel Kr\u0119gielnia - Joanna",
+        "phone": "774531115",
+        "web": "http:\/\/www.joannarestauracja.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "\u0141ubniany , \u0141ubniany",
+        "distance": 13.6,
+        "email": "",
+        "id": 79418,
+        "latitude": "50.7861194",
+        "longitude": "18.0011416",
+        "name": "Boisko Orlik",
+        "phone": "539 089 636",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Powsta\u0144c\u00f3w \u015al\u0105skich 7, Chr\u00f3\u015bcice",
+        "distance": 14.3,
+        "email": "beata.kokot@wp.pl",
+        "id": 68478,
+        "latitude": "50.782018",
+        "longitude": "17.807461",
+        "name": "Kr\u0119gielnia Bowling Club s.c.",
+        "phone": "77 469 54 39",
+        "web": "kregielniachroscice.pl\/",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Kr%C4%99gielnia-Chr%C3%B3%C5%9Bcice\/254068284643562?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Oleska 51, D\u0105br\u00f3wka \u0141ubnia\u0144ska",
+        "distance": 14.9,
+        "email": "gibon@fortaniola.com",
+        "id": 66639,
+        "latitude": "50.793315",
+        "longitude": "18.021069",
+        "name": "Paintball Arena",
+        "phone": "791526250",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Graniczna , D\u0105br\u00f3wka G\u00f3rna",
+        "distance": 16.3,
+        "email": "olsuch@interia.pl",
+        "id": 60623,
+        "latitude": "50.5287285",
+        "longitude": "17.9331127",
+        "name": "Olsuch Paintball",
+        "phone": "697 270 065",
+        "web": "www.olsuch.pl",
+        "facebook": "https:\/\/www.facebook.com\/pages\/Paintball-Olsuch-sc\/151292891624217?fref=ts"
+      }
+    },
+    {
+      "club": {
+        "address": "Wiejska 53, Kobylno",
+        "distance": 18.5,
+        "email": "wtk_kawalkada@wp.pl",
+        "id": 74403,
+        "latitude": "50.7955864",
+        "longitude": "18.1027931",
+        "name": "Wypoczynkowa Turystyka Konna Kawalkada",
+        "phone": "518 972 481",
+        "web": "www.kawalkada.org\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Klasztorna 2, Kamie\u0144 \u015al\u0105ski",
+        "distance": 18.5,
+        "email": "zrs@gogolin.pl",
+        "id": 62469,
+        "latitude": "50.5408319",
+        "longitude": "18.075115",
+        "name": "P\u0142ywalnia Letnia w Kamieniu \u015al\u0105skim",
+        "phone": "77 40 76 930",
+        "web": "www.zrsgogolin.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowice 47-303, os. Sady 1\/5",
+        "distance": 20.1,
+        "email": "biuro@centrum-progress.pl",
+        "id": 3187,
+        "latitude": "50.4963064",
+        "longitude": "17.9669381",
+        "name": "CENTRUM J\u0118ZYKOWO-SZKOLENIOWE PROGRESS",
+        "phone": "507 270 106, 881 584 812",
+        "web": "www.centrum-progress.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowice 47-303, os. Sady 1\/ 5",
+        "distance": 20.1,
+        "email": "biuro@centrum-progress.pl",
+        "id": 3186,
+        "latitude": "50.4963064",
+        "longitude": "17.9669381",
+        "name": "CENTRUM J\u0118ZYKOWO-SZKOLENIOWE PROGRESS",
+        "phone": "507 270 106",
+        "web": "www.centrum-progress.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Sportowa , Gogolin",
+        "distance": 20.5,
+        "email": "",
+        "id": 78586,
+        "latitude": "50.499915",
+        "longitude": "18.0121934",
+        "name": "Boisko Orlik",
+        "phone": null,
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Przyjaci\u00f3\u0142 Dubendorf 1, Gogolin",
+        "distance": 20.6,
+        "email": "zrs@gogolin.pl",
+        "id": 69071,
+        "latitude": "50.4981739",
+        "longitude": "18.0097814",
+        "name": "Kryta P\u0142ywalnia",
+        "phone": "77 407 69 30",
+        "web": "www.zrsgogolin.pl",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Kili\u0144skiego 3, Krapkowice",
+        "distance": 20.6,
+        "email": "silownia-atleta@wp.pl",
+        "id": 62445,
+        "latitude": "50.4912737",
+        "longitude": "17.9593362",
+        "name": "Si\u0142ownia w hali Sportowej",
+        "phone": "504 103 580",
+        "web": "www.silownia-atleta.pl\/",
+        "facebook": "www.facebook.com\/silownia.atleta"
+      }
+    },
+    {
+      "club": {
+        "address": "Powsta\u0144c\u00f3w 14, Popiel\u00f3w",
+        "distance": 21,
+        "email": "",
+        "id": 78390,
+        "latitude": "50.825198",
+        "longitude": "17.740765",
+        "name": "Boisko Orlik",
+        "phone": "784 917 738",
+        "web": "",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowicka 141a, Gogolin",
+        "distance": 21.1,
+        "email": "miczor@op.pl",
+        "id": 63874,
+        "latitude": "50.4909199",
+        "longitude": "17.994428",
+        "name": "FitAn Areobic",
+        "phone": "507 035 888",
+        "web": "www.fitan.pl",
+        "facebook": "www.facebook.com\/FitAnAerobicAnnaMiczkaOfiera"
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowice, ul. Ksi\u0119dza Franciszka Duszy 7",
+        "distance": 21.1,
+        "email": "oksw@marekwyka.pl",
+        "id": 3190,
+        "latitude": "50.4879118",
+        "longitude": "17.9664964",
+        "name": "Opolski Klub Sport\u00f3w Walki",
+        "phone": "603 454 933",
+        "web": "www.marekwyka.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Mur\u00f3w, ul. Wolno\u015bci 22",
+        "distance": 21.1,
+        "email": "kontakt@karate-opole.pl",
+        "id": 65778,
+        "latitude": "50.8637759",
+        "longitude": "17.947999",
+        "name": "Akademia Karate Tradycyjnego Opole",
+        "phone": "511 991 541, 513 039 795, 690 007 558",
+        "web": "www.karate-opole.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowice 47-303, ul. Ksi\u0119dza Duszy 32B",
+        "distance": 21.3,
+        "email": "biuro@universum.edu.pl",
+        "id": 3189,
+        "latitude": "50.4864979",
+        "longitude": "17.9710143",
+        "name": "AGENCJA US\u0141UG O\u015aWIATOWYCH UNIVERSUM",
+        "phone": "77 446 64 67, 790 790 467",
+        "web": "www.universum.edu.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Popielowska 6, Popiel\u00f3w",
+        "distance": 21.5,
+        "email": "",
+        "id": 79873,
+        "latitude": "50.8420799",
+        "longitude": "17.7680699",
+        "name": "O\u015brodek Je\u017adziecki Pocandor",
+        "phone": "511 321 614",
+        "web": "https:\/\/www.jazdakonna.opole.pl\/",
+        "facebook": ""
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowice 47-303, ul. Grunwaldzka 3",
+        "distance": 21.9,
+        "email": "krapkowice@bizneslingua.pl",
+        "id": 3188,
+        "latitude": "50.4824947",
+        "longitude": "17.9859887",
+        "name": "BIZNESLINGUA CENTRUM J\u0118ZYK\u00d3W OBCYCH",
+        "phone": "77 466 11 52",
+        "web": "www.bizneslingua.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Krapkowice, ul. Szkolna 3",
+        "distance": 22.4,
+        "email": "sekretariat@pak.edu.pl",
+        "id": 3192,
+        "latitude": "50.475646",
+        "longitude": "17.964522",
+        "name": "POLSKA AKADEMIA KSZTA\u0141CENIA",
+        "phone": "77 446 03 95",
+        "web": "www.pak.edu.pl",
+        "facebook": "NULL"
+      }
+    },
+    {
+      "club": {
+        "address": "Ogrodowa 1, Opole",
+        "distance": 23.2,
+        "email": "",
+        "id": 82715,
+        "latitude": "50.8643471",
+        "longitude": "18.0596736",
+        "name": "Si\u0142ownia Zewn\u0119trzna Fit Park",
+        "phone": null,
+        "web": "http:\/\/www.fitpark.pl\/",
+        "facebook": ""
+      }
+    }
+  ],
+  "totalItems": 26230
+}
