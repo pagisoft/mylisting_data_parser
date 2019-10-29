@@ -30,6 +30,7 @@ public class CourseDataReader implements InputDataReader {
             while (clubIterator.hasNext()) {
                 JsonNode temp = clubIterator.next().path("club");
                 LOGGER.info(temp.path("name"));
+                //ma zwracac kolekcję
             }
 
         } catch (IOException e) {

@@ -1,0 +1,866 @@
+[
+  {
+    "id": 9,
+    "name": "Abt (abdominal, buttocks, thighs)"
+  },
+  {
+    "id": 80,
+    "name": "Akrobatyka"
+  },
+  {
+    "id": 81,
+    "name": "Alpinizm"
+  },
+  {
+    "id": 8,
+    "name": "Aqua fitness"
+  },
+  {
+    "id": 44,
+    "name": "Architektura"
+  },
+  {
+    "id": 36,
+    "name": "Asronomia"
+  },
+  {
+    "id": 215,
+    "name": "Bachata"
+  },
+  {
+    "id": 82,
+    "name": "Badminton"
+  },
+  {
+    "id": 83,
+    "name": "Baseball"
+  },
+  {
+    "id": 85,
+    "name": "Biathlon"
+  },
+  {
+    "id": 86,
+    "name": "Bieg na orientacj\u0119"
+  },
+  {
+    "id": 167,
+    "name": "Biegi d\u0142ugodystansowe"
+  },
+  {
+    "id": 168,
+    "name": "Biegi kr\u00f3tkodystansowe"
+  },
+  {
+    "id": 169,
+    "name": "Biegi \u015bredniodystansowe"
+  },
+  {
+    "id": 87,
+    "name": "Bilard"
+  },
+  {
+    "id": 39,
+    "name": "Biologia"
+  },
+  {
+    "id": 146,
+    "name": "Bobsleje"
+  },
+  {
+    "id": 11,
+    "name": "Body pump, magic bar"
+  },
+  {
+    "id": 17,
+    "name": "Bodybulding"
+  },
+  {
+    "id": 88,
+    "name": "Boks"
+  },
+  {
+    "id": 89,
+    "name": "Bowling"
+  },
+  {
+    "id": 196,
+    "name": "Breakdance"
+  },
+  {
+    "id": 206,
+    "name": "Bryczki"
+  },
+  {
+    "id": 90,
+    "name": "Bryd\u017c sportowy"
+  },
+  {
+    "id": 53,
+    "name": "Bukieciarstwo"
+  },
+  {
+    "id": 21,
+    "name": "Callanetics"
+  },
+  {
+    "id": 54,
+    "name": "Ceramika"
+  },
+  {
+    "id": 37,
+    "name": "Chemia"
+  },
+  {
+    "id": 179,
+    "name": "Ch\u00f3d"
+  },
+  {
+    "id": 12,
+    "name": "Crossfit"
+  },
+  {
+    "id": 91,
+    "name": "Curling"
+  },
+  {
+    "id": 111,
+    "name": "Cyklotrial"
+  },
+  {
+    "id": 6,
+    "name": "Dance aerobik"
+  },
+  {
+    "id": 175,
+    "name": "Dysk"
+  },
+  {
+    "id": 40,
+    "name": "Ekologia"
+  },
+  {
+    "id": 46,
+    "name": "Elektronika"
+  },
+  {
+    "id": 5,
+    "name": "Fat burning"
+  },
+  {
+    "id": 67,
+    "name": "Filatelistyka"
+  },
+  {
+    "id": 19,
+    "name": "Fit ball"
+  },
+  {
+    "id": 1,
+    "name": "Fitness"
+  },
+  {
+    "id": 35,
+    "name": "Fizyka"
+  },
+  {
+    "id": 48,
+    "name": "Fotografia"
+  },
+  {
+    "id": 41,
+    "name": "Geografia"
+  },
+  {
+    "id": 42,
+    "name": "Geologia"
+  },
+  {
+    "id": 92,
+    "name": "Gimnastyka artystyczna"
+  },
+  {
+    "id": 93,
+    "name": "Gimnastyka sportowa"
+  },
+  {
+    "id": 94,
+    "name": "Golf"
+  },
+  {
+    "id": 61,
+    "name": "Grafika"
+  },
+  {
+    "id": 68,
+    "name": "Gry komputerowe"
+  },
+  {
+    "id": 69,
+    "name": "Haft"
+  },
+  {
+    "id": 3,
+    "name": "Hi impact aerobik"
+  },
+  {
+    "id": 4,
+    "name": "Hi-lo (hi-lo combo)"
+  },
+  {
+    "id": 70,
+    "name": "Hodowla"
+  },
+  {
+    "id": 95,
+    "name": "Hokej na lodzie"
+  },
+  {
+    "id": 96,
+    "name": "Hokej na trawie"
+  },
+  {
+    "id": 34,
+    "name": "Informatyka"
+  },
+  {
+    "id": 166,
+    "name": "Inne dyscypliny"
+  },
+  {
+    "id": 32,
+    "name": "Inne j\u0119zyki"
+  },
+  {
+    "id": 50,
+    "name": "Instrumenty muzyczne"
+  },
+  {
+    "id": 97,
+    "name": "Je\u017adziectwo"
+  },
+  {
+    "id": 26,
+    "name": "J\u0119zyk angielski"
+  },
+  {
+    "id": 29,
+    "name": "J\u0119zyk francuski"
+  },
+  {
+    "id": 27,
+    "name": "J\u0119zyk hiszpa\u0144ski"
+  },
+  {
+    "id": 28,
+    "name": "J\u0119zyk niemiecki"
+  },
+  {
+    "id": 25,
+    "name": "J\u0119zyk polski"
+  },
+  {
+    "id": 31,
+    "name": "J\u0119zyk rosyjski"
+  },
+  {
+    "id": 30,
+    "name": "J\u0119zyk w\u0142oski"
+  },
+  {
+    "id": 24,
+    "name": "J\u0119zyki obce"
+  },
+  {
+    "id": 22,
+    "name": "Joga, tai-chi, body-art, move and breath"
+  },
+  {
+    "id": 99,
+    "name": "Ju-jitsu"
+  },
+  {
+    "id": 55,
+    "name": "Jubilerstwo"
+  },
+  {
+    "id": 98,
+    "name": "Judo"
+  },
+  {
+    "id": 102,
+    "name": "Kajak polo"
+  },
+  {
+    "id": 100,
+    "name": "Kajakarstwo g\u00f3rskie"
+  },
+  {
+    "id": 101,
+    "name": "Kajakarstwo klasyczne"
+  },
+  {
+    "id": 62,
+    "name": "Kaligrafia"
+  },
+  {
+    "id": 103,
+    "name": "Karate"
+  },
+  {
+    "id": 104,
+    "name": "Karate tradycyjne"
+  },
+  {
+    "id": 105,
+    "name": "Kendo"
+  },
+  {
+    "id": 106,
+    "name": "Kick-boxing"
+  },
+  {
+    "id": 107,
+    "name": "Kolarstwo g\u00f3rskie"
+  },
+  {
+    "id": 108,
+    "name": "Kolarstwo prze\u0142ajowe"
+  },
+  {
+    "id": 109,
+    "name": "Kolarstwo szosowe"
+  },
+  {
+    "id": 110,
+    "name": "Kolarstwo torowe"
+  },
+  {
+    "id": 112,
+    "name": "Korfball"
+  },
+  {
+    "id": 113,
+    "name": "Koszyk\u00f3wka"
+  },
+  {
+    "id": 114,
+    "name": "Kr\u0119glarstwo"
+  },
+  {
+    "id": 71,
+    "name": "Kr\u00f3tkofalarstwo"
+  },
+  {
+    "id": 174,
+    "name": "Kula"
+  },
+  {
+    "id": 207,
+    "name": "Kuligi"
+  },
+  {
+    "id": 72,
+    "name": "Kulinaria"
+  },
+  {
+    "id": 115,
+    "name": "Kulturystyka"
+  },
+  {
+    "id": 216,
+    "name": "Latino solo"
+  },
+  {
+    "id": 198,
+    "name": "Locking"
+  },
+  {
+    "id": 2,
+    "name": "Low impact aerobik"
+  },
+  {
+    "id": 200,
+    "name": "\u0142owiectwo"
+  },
+  {
+    "id": 117,
+    "name": "\u0142ucznictwo"
+  },
+  {
+    "id": 118,
+    "name": "\u0142y\u017cwiarstwo figurowe"
+  },
+  {
+    "id": 119,
+    "name": "\u0142y\u017cwiarstwo szybkie"
+  },
+  {
+    "id": 73,
+    "name": "Majsterkowanie"
+  },
+  {
+    "id": 63,
+    "name": "Malarstwo"
+  },
+  {
+    "id": 56,
+    "name": "Manufaktura"
+  },
+  {
+    "id": 33,
+    "name": "Matematyka"
+  },
+  {
+    "id": 176,
+    "name": "M\u0142ot"
+  },
+  {
+    "id": 66,
+    "name": "Moda"
+  },
+  {
+    "id": 74,
+    "name": "Modelarstwo"
+  },
+  {
+    "id": 120,
+    "name": "Modelarstwo sportowe"
+  },
+  {
+    "id": 186,
+    "name": "Modern dance"
+  },
+  {
+    "id": 49,
+    "name": "Muzyka"
+  },
+  {
+    "id": 121,
+    "name": "Narciarstwo alpejskie"
+  },
+  {
+    "id": 122,
+    "name": "Narciarstwo klasyczne"
+  },
+  {
+    "id": 75,
+    "name": "Numizmatyka"
+  },
+  {
+    "id": 43,
+    "name": "Oceanologia"
+  },
+  {
+    "id": 38,
+    "name": "Ochrona \u015bodowiska"
+  },
+  {
+    "id": 197,
+    "name": "Oldschool"
+  },
+  {
+    "id": 76,
+    "name": "Origamii"
+  },
+  {
+    "id": 177,
+    "name": "Oszczep"
+  },
+  {
+    "id": 202,
+    "name": "Paintball"
+  },
+  {
+    "id": 123,
+    "name": "Pi\u0119ciob\u00f3j nowoczesny"
+  },
+  {
+    "id": 20,
+    "name": "Pilates"
+  },
+  {
+    "id": 124,
+    "name": "Pi\u0142ka no\u017cna"
+  },
+  {
+    "id": 125,
+    "name": "Pi\u0142ka no\u017cna halowa"
+  },
+  {
+    "id": 126,
+    "name": "Pi\u0142ka r\u0119czna"
+  },
+  {
+    "id": 127,
+    "name": "Pi\u0142ka siatkowa"
+  },
+  {
+    "id": 128,
+    "name": "Pi\u0142ka siatkowa pla\u017cowa"
+  },
+  {
+    "id": 143,
+    "name": "Pi\u0142ka wodna"
+  },
+  {
+    "id": 204,
+    "name": "Place zabaw"
+  },
+  {
+    "id": 60,
+    "name": "Plastyka"
+  },
+  {
+    "id": 212,
+    "name": "P\u0142aski brzuch\r\n"
+  },
+  {
+    "id": 129,
+    "name": "P\u0142etwonurkowanie sportowe"
+  },
+  {
+    "id": 140,
+    "name": "P\u0142ywanie"
+  },
+  {
+    "id": 141,
+    "name": "P\u0142ywanie synchroniczne"
+  },
+  {
+    "id": 130,
+    "name": "Podnoszenie ci\u0119\u017car\u00f3w"
+  },
+  {
+    "id": 201,
+    "name": "Podr\u00f3\u017ce"
+  },
+  {
+    "id": 199,
+    "name": "Popping"
+  },
+  {
+    "id": 187,
+    "name": "Postmodern dance"
+  },
+  {
+    "id": 77,
+    "name": "Puzzle"
+  },
+  {
+    "id": 131,
+    "name": "Radioorientacja sportowa"
+  },
+  {
+    "id": 132,
+    "name": "Ringo"
+  },
+  {
+    "id": 78,
+    "name": "Rob\u00f3tki r\u0119czne"
+  },
+  {
+    "id": 45,
+    "name": "Robotyka"
+  },
+  {
+    "id": 133,
+    "name": "Rugby"
+  },
+  {
+    "id": 64,
+    "name": "Rysunek"
+  },
+  {
+    "id": 57,
+    "name": "Rzemios\u0142o artystyczne"
+  },
+  {
+    "id": 65,
+    "name": "Rze\u017aba"
+  },
+  {
+    "id": 145,
+    "name": "Saneczkarstwo"
+  },
+  {
+    "id": 134,
+    "name": "Skiboby"
+  },
+  {
+    "id": 171,
+    "name": "Skok o tyczce"
+  },
+  {
+    "id": 172,
+    "name": "Skok w dal"
+  },
+  {
+    "id": 170,
+    "name": "Skok wzwy\u017c"
+  },
+  {
+    "id": 142,
+    "name": "Skoki do wody"
+  },
+  {
+    "id": 135,
+    "name": "Snooker"
+  },
+  {
+    "id": 136,
+    "name": "Snowboard"
+  },
+  {
+    "id": 84,
+    "name": "Softball"
+  },
+  {
+    "id": 51,
+    "name": "\u015bpiew"
+  },
+  {
+    "id": 15,
+    "name": "Spining"
+  },
+  {
+    "id": 137,
+    "name": "Sport lotniczy"
+  },
+  {
+    "id": 138,
+    "name": "Sport motorowodny"
+  },
+  {
+    "id": 139,
+    "name": "Sport motorowy"
+  },
+  {
+    "id": 144,
+    "name": "Sport psich zaprz\u0119g\u00f3w"
+  },
+  {
+    "id": 208,
+    "name": "Squash"
+  },
+  {
+    "id": 7,
+    "name": "Step"
+  },
+  {
+    "id": 23,
+    "name": "Stretching"
+  },
+  {
+    "id": 147,
+    "name": "Strzelectwo sportowe"
+  },
+  {
+    "id": 148,
+    "name": "Sumo"
+  },
+  {
+    "id": 203,
+    "name": "Survival"
+  },
+  {
+    "id": 149,
+    "name": "Szachy"
+  },
+  {
+    "id": 150,
+    "name": "Szermierka"
+  },
+  {
+    "id": 52,
+    "name": "Sztuka u\u017cytkowa"
+  },
+  {
+    "id": 14,
+    "name": "Tae bo, aeroboxing, boxaerobik, kardiokarate"
+  },
+  {
+    "id": 151,
+    "name": "Taekwon-do"
+  },
+  {
+    "id": 184,
+    "name": "Taniec charakterystyczny"
+  },
+  {
+    "id": 190,
+    "name": "Taniec dworski"
+  },
+  {
+    "id": 185,
+    "name": "Taniec historyczny"
+  },
+  {
+    "id": 181,
+    "name": "Taniec klasyczny"
+  },
+  {
+    "id": 188,
+    "name": "Taniec konceptualny"
+  },
+  {
+    "id": 214,
+    "name": "Taniec latynoameryka\u0144ski"
+  },
+  {
+    "id": 192,
+    "name": "Taniec ludowy"
+  },
+  {
+    "id": 194,
+    "name": "Taniec nowoczesny"
+  },
+  {
+    "id": 191,
+    "name": "Taniec salonowy"
+  },
+  {
+    "id": 180,
+    "name": "Taniec sceniczny"
+  },
+  {
+    "id": 152,
+    "name": "Taniec sportowy"
+  },
+  {
+    "id": 193,
+    "name": "Taniec towarzyski"
+  },
+  {
+    "id": 195,
+    "name": "Taniec uliczny (kultury hip-hop)"
+  },
+  {
+    "id": 182,
+    "name": "Taniec wsp\u00f3\u0142czesny"
+  },
+  {
+    "id": 183,
+    "name": "Taniec wyrazisty"
+  },
+  {
+    "id": 10,
+    "name": "Tbc (total body condition),"
+  },
+  {
+    "id": 189,
+    "name": "Teatr ta\u0144ca"
+  },
+  {
+    "id": 47,
+    "name": "Telekomunikacja"
+  },
+  {
+    "id": 153,
+    "name": "Tenis"
+  },
+  {
+    "id": 154,
+    "name": "Tenis sto\u0142owy"
+  },
+  {
+    "id": 209,
+    "name": "Trampoliny\/Fit & Jump\r\n"
+  },
+  {
+    "id": 211,
+    "name": "Trening FBW\r\n"
+  },
+  {
+    "id": 18,
+    "name": "Trening funkcjonalny"
+  },
+  {
+    "id": 16,
+    "name": "Trening obwodowy, circuit trening"
+  },
+  {
+    "id": 155,
+    "name": "Triathlon"
+  },
+  {
+    "id": 116,
+    "name": "Tr\u00f3jb\u00f3j si\u0142owy"
+  },
+  {
+    "id": 173,
+    "name": "Tr\u00f3jskok"
+  },
+  {
+    "id": 13,
+    "name": "Trx, jukarii"
+  },
+  {
+    "id": 156,
+    "name": "Unihokej"
+  },
+  {
+    "id": 157,
+    "name": "Warcaby"
+  },
+  {
+    "id": 158,
+    "name": "W\u0119dkarstwo"
+  },
+  {
+    "id": 178,
+    "name": "Wielob\u00f3j"
+  },
+  {
+    "id": 159,
+    "name": "Wio\u015blarstwo"
+  },
+  {
+    "id": 79,
+    "name": "Wolontariat"
+  },
+  {
+    "id": 160,
+    "name": "Wrotkarstwo"
+  },
+  {
+    "id": 58,
+    "name": "Wzornictwo"
+  },
+  {
+    "id": 161,
+    "name": "Zapasy w stylu klasycznym"
+  },
+  {
+    "id": 162,
+    "name": "Zapasy w stylu wolnym"
+  },
+  {
+    "id": 205,
+    "name": "Zaprz\u0119gi"
+  },
+  {
+    "id": 59,
+    "name": "Zdobnictwo"
+  },
+  {
+    "id": 213,
+    "name": "Zdrowy kr\u0119gos\u0142up\r\n"
+  },
+  {
+    "id": 163,
+    "name": "\u017ceglarstwo"
+  },
+  {
+    "id": 164,
+    "name": "\u017ceglarstwo deskowe"
+  },
+  {
+    "id": 165,
+    "name": "\u017ceglarstwo lodowe"
+  },
+  {
+    "id": 210,
+    "name": "Zumba"
+  }
+]
