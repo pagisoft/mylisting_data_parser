@@ -15,7 +15,7 @@ public class CourseDataWriter {
 
     private static final Logger LOGGER = LogManager.getLogger(CourseDataWriter.class);
 
-    public void perpareSqlInsertStatement() {
+    public void prepareSqlInsertStatement() {
 
         VelocityEngine velocityEngine = new VelocityEngine();
         velocityEngine.setProperty(RuntimeConstants.RESOURCE_LOADER, "classpath");
@@ -37,7 +37,7 @@ public class CourseDataWriter {
         StringWriter writer = new StringWriter();
         insertListingTemplate.merge(context, writer);
 
-        //LOGGER.info(writer.toString());
+        LOGGER.info(writer.toString());
 
         LOGGER.info("done");
 
