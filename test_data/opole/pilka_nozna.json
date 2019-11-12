@@ -1,0 +1,21 @@
+{
+  "page": 1,
+  "items": 10000,
+  "payload": [
+    {
+      "club": {
+        "address": "Opole, ul. Szarotki 1A",
+        "distance": 4.5,
+        "email": "rodloopole@o2.pl",
+        "id": 4366,
+        "latitude": "50.6663002",
+        "longitude": "17.983995",
+        "name": "Uczniowski Klub Sportowy Rod\u0142o Opole",
+        "phone": "501 216 172, 600 873 326, 661 672 075, 502 474 980",
+        "web": "rodloopole.pl",
+        "facebook": "NULL"
+      }
+    }
+  ],
+  "totalItems": 0
+}

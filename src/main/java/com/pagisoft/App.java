@@ -13,7 +13,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 
-        new CourseDataReader().readInputData();
-        //new CourseDataWriter().perpareSqlInsertStatement();
+        //new CourseDataReader().readInputData();
+        new CourseDataWriter().perpareSqlInsertStatement();
     }
 }

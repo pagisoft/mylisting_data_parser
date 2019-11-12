@@ -37,6 +37,8 @@ public class CourseDataWriter {
         StringWriter writer = new StringWriter();
         insertListingTemplate.merge(context, writer);
 
+        //LOGGER.info(writer.toString());
+
         LOGGER.info("done");
 
 

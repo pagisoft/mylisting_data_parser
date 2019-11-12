@@ -19,7 +19,8 @@ public class CourseDataReader implements InputDataReader {
 
         ObjectMapper mapper = new ObjectMapper();
 
-        try (FileReader courseDataReader = new FileReader("D:\\Projekty\\mylisting_data_parser\\test_data\\opole.json")) {
+        //try (FileReader courseDataReader = new FileReader("D:\\Projekty\\mylisting_data_parser\\test_data\\opole.json")) {
+        try (FileReader courseDataReader = new FileReader("D:\\Projekty\\mylisting_data_parser\\test_data\\opole/pilka_nozna.json")) {
 
             JsonNode rootNode = mapper.readTree(courseDataReader);
             JsonNode payloadNode = rootNode.path("payload");
