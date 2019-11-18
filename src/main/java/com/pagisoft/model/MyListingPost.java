@@ -3,20 +3,17 @@ package com.pagisoft.model;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
-import java.util.Date;
-import java.util.TimeZone;
+import java.time.format.DateTimeFormatter;
 
 public class MyListingPost {
 
     private static final Logger LOGGER = LogManager.getLogger(MyListingPost.class);
 
     private static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
+    private DateTimeFormatter formatter = DateTimeFormatter.ofPattern(DATE_FORMAT);
     //Fri Nov 15 12:03:25 CET 2019
 
     // wp_posts table fields
@@ -67,12 +64,22 @@ public class MyListingPost {
         return postDate;
     }
 
+    // get value in the right string format
+    public String getPostDateFormatted() {
+        return postDate.format(formatter);
+    }
+
     protected void setPostDate(Instant currentInstant) {
         this.postDate = currentInstant.atZone(ZoneId.of("Europe/Warsaw"));;
     }
 
     public ZonedDateTime getPostDateGmt() {
         return postDateGmt;
+    }
+
+    // get value in the right string format
+    public String getPostDateGmtFormatted() {
+        return postDateGmt.format(formatter);
     }
 
     protected void setPostDateGmt(Instant currentInstant) {
@@ -131,12 +138,22 @@ public class MyListingPost {
         return postModified;
     }
 
+    // get value in the right string format
+    public String getPostModifiedFormatted() {
+        return postModified.format(formatter);
+    }
+
     protected void setPostModified(Instant currentInstant) {
         this.postModified = currentInstant.atZone(ZoneId.of("Europe/Warsaw"));
     }
 
     public ZonedDateTime getPostModifiedGmt() {
         return postModifiedGmt;
+    }
+
+    // get value in the right string format
+    public String getPostModifiedGmtFormatted() {
+        return postModifiedGmt.format(formatter);
     }
 
     protected void setPostModifiedGmt(Instant currentInstant) {
