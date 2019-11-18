@@ -1,7 +1,11 @@
 package com.pagisoft.service;
 
+import com.pagisoft.model.MyListingPost;
+
+import java.util.Set;
+
 public interface InputDataReader {
 
-    void readInputData();
+    Set<MyListingPost> readInputData();
 
 }

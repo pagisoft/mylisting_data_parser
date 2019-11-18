@@ -31,7 +31,15 @@ public class CourseDataWriter {
         Template insertListingTemplate = velocityEngine.getTemplate("templates/insert_listing_template.sql");
 
         VelocityContext context = new VelocityContext();
+        context.put("post_author", 27);
         context.put("post_date", new Date());
+        context.put("post_date_gmt", new Date());
+        context.put("post_content", "");
+        //context.put("post_title", );
+        //context.put("post_date", new Date());
+        //context.put("post_date", new Date());
+        //context.put("post_date", new Date());
+        //context.put("post_date", new Date());
         //dodać kolejne pola do sql
 
         StringWriter writer = new StringWriter();
