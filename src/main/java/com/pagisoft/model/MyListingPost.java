@@ -1,5 +1,6 @@
 package com.pagisoft.model;
 
+import com.pagisoft.Utils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -7,6 +8,7 @@ import java.time.Instant;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.Locale;
 
 public class MyListingPost {
 
@@ -14,12 +16,14 @@ public class MyListingPost {
 
     private static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
     private DateTimeFormatter formatter = DateTimeFormatter.ofPattern(DATE_FORMAT);
+
+    private static final String GUID_LINK_PREFIX = "https://nudyzbudy.pl/listing/";
     //Fri Nov 15 12:03:25 CET 2019
 
     // wp_posts table fields
     // some of the fields are final static, initialized with values
     //private int id;
-    private final static Integer postAuthor = 27;
+    private final static Integer postAuthor = 1;
     private ZonedDateTime postDate;
     private ZonedDateTime postDateGmt;
     private final static String postContent = "";
@@ -27,7 +31,7 @@ public class MyListingPost {
     private final static String postExcerpt = "";
     private final static String postStatus = "publish";
     private final static String commentStatus = "open";
-    private final static String pingStatus = "closed";
+    private final static String pingStatus = "open";
     private final static String postPassword = "";
     private String postName;
     private final static String toPing = "";
@@ -123,6 +127,10 @@ public class MyListingPost {
     }
 
     protected void setPostName(String postName) {
+        postName = postName.toLowerCase();
+        postName = Utils.removePolishCharacters(postName);
+        postName = Utils.replaceSpacesWithDashes(postName);
+
         this.postName = postName;
     }
 
@@ -173,7 +181,10 @@ public class MyListingPost {
     }
 
     protected void setGuid(String guid) {
-        this.guid = guid;
+        guid = guid.toLowerCase();
+        guid = Utils.removePolishCharacters(guid);
+        guid = Utils.replaceSpacesWithDashes(guid);
+        this.guid = GUID_LINK_PREFIX + guid + "/";
     }
 
     public Integer getMenuOrder() {
