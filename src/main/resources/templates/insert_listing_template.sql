@@ -30,7 +30,7 @@ INSERT INTO `wp_posts` (
   '',
   'publish',
   'open',
-  'open',,
+  'open',
   '',
   '$post_name',
   '',
